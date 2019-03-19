@@ -1,0 +1,672 @@
+"","field","year","location","state","lat","long","residue","inc","sev","species","genotype","field2"
+"1",25,2010,"Agua Santa","RS",-28.30617,-52.08281,"soybean",68.24,9.47,"Fusarium graminearum","15-ADON",2500
+"2",25,2010,"Agua Santa","RS",-28.30617,-52.08281,"soybean",68.24,9.47,"Fusarium graminearum","15-ADON",2500
+"3",25,2010,"Agua Santa","RS",-28.28964,-51.97308,"soybean",68.24,9.47,"Fusarium graminearum","15-ADON",2500
+"4",25,2010,"Agua Santa","RS",-28.28964,-51.97308,"soybean",68.24,9.47,"Fusarium graminearum","15-ADON",2500
+"5",25,2010,"Agua Santa","RS",-28.28964,-51.97308,"soybean",68.24,9.47,"Fusarium graminearum","15-ADON",2500
+"6",26,2010,"Agua Santa","RS",-28.72158,-51.24422,"corn",34,3.73,"Fusarium graminearum","15-ADON",2600
+"7",26,2010,"Agua Santa","RS",-28.72158,-51.24422,"corn",34,3.73,"Fusarium graminearum","15-ADON",2600
+"8",26,2010,"Agua Santa","RS",-28.72158,-51.24422,"corn",34,3.73,"Fusarium graminearum","15-ADON",2600
+"9",26,2010,"Agua Santa","RS",-28.30103,-51.46317,"corn",34,3.73,"Fusarium meridionale","NIV",2600
+"10",36,2011,"Agua Santa","RS",-28.37067,-52.98822,"soybean",40.5,1.31,"Fusarium graminearum","15-ADON",3600
+"11",48,2010,"Antonio Prado","RS",-28.33483,-52.88072,"soybean",2,0.02,"Fcor","NIV",4800
+"12",49,2010,"Antonio Prado","RS",-28.72158,-51.24422,"corn",11,0.22,"Fusarium graminearum","15-ADON",4900
+"13",49,2010,"Antonio Prado","RS",-28.30103,-51.46317,"corn",11,0.22,"Fusarium graminearum","15-ADON",4900
+"14",49,2010,"Antonio Prado","RS",-28.27356,-52.68206,"corn",11,0.22,"Fusarium graminearum","15-ADON",4900
+"15",49,2010,"Antonio Prado","RS",-28.27356,-52.68206,"corn",11,0.22,"Fusarium graminearum","15-ADON",4900
+"16",NA,2009,"Apucarana","PR",-23.55083333,-51.08583333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"17",NA,2009,"Apucarana","PR",-23.55083333,-51.08583333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"18",NA,2009,"Apucarana","PR",-23.55083333,-51.08583333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"19",NA,2009,"Apucarana","PR",-23.55083333,-51.08583333,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"20",NA,2009,"Arapongas","PR",-23.41944444,-51.42444444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"21",NA,2009,"Arapongas","PR",-23.41944444,-51.42444444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"22",NA,2009,"Arapongas","PR",-23.41944444,-51.42444444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"23",NA,2009,"Arapongas","PR",-23.41944444,-51.42444444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"24",NA,2009,"Assis Chateaubriand","PR",-24.79888889,-53.30666667,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"25",NA,2009,"Assis Chateaubriand","PR",-24.79888889,-53.30666667,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"26",NA,2009,"Assis Chateaubriand","PR",-24.79888889,-53.30666667,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"27",NA,2009,"Assis Chateaubriand","PR",-24.79888889,-53.30666667,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"28",NA,2009,"Assis Chateaubriand","PR",-24.79888889,-53.30666667,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"29",38,2010,"Barreto","RS",-28.32164,-51.23739,"soybean",13,0.46,"Faus","3-ADON",3800
+"30",38,2010,"Barreto","RS",-28.24944,-51.84692,"soybean",13,0.46,"Fcor","NIV",3800
+"31",38,2010,"Barreto","RS",-28.27356,-52.68206,"soybean",13,0.46,"Fusarium graminearum","15-ADON",3800
+"32",38,2010,"Barreto","RS",-28.26644,-51.66858,"soybean",13,0.46,"Fusarium meridionale","NIV",3800
+"33",NA,2009,"Bela Vista do Paraiso","PR",-24.09972222,-52.62333333,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"34",21,2009,"Boa Vista das Missoes","RS",-28.53,-52.763,"corn",25.13,2.5,"Fusarium graminearum","15-ADON",2100
+"35",21,2009,"Boa Vista das Missoes","RS",-28.53,-52.763,"corn",25.13,2.5,"Fusarium graminearum","15-ADON",2100
+"36",21,2009,"Boa Vista das Missoes","RS",-28.53,-52.763,"corn",25.13,2.5,"Fusarium graminearum","15-ADON",2100
+"37",22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fusarium graminearum","15-ADON",2200
+"38",22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fusarium graminearum","15-ADON",2200
+"39",22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fusarium graminearum","15-ADON",2200
+"40",22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fusarium graminearum","15-ADON",2200
+"41",NA,2009,"Cambe","PR",-23.27583333,-51.27833333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"42",NA,2009,"Cambe","PR",-23.27583333,-51.27833333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"43",NA,2009,"Cambe","PR",-23.27583333,-51.27833333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"44",NA,2009,"Cambe","PR",-23.27583333,-51.27833333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"45",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"46",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"47",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"48",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"49",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"50",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"51",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"52",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"53",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"54",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"55",NA,2009,"Campo Mourao","PR",-24.04555556,-52.38305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"56",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Faus","NIV",NA
+"57",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"58",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"59",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"60",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"61",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"62",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"63",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"64",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"65",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"66",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"67",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"68",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"69",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"70",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"71",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"72",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"73",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"74",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"75",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"76",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"77",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"78",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"79",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"80",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"81",NA,2011,"Cantagalo","PR",-25.37444444,-52.12638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"82",2,2010,"Carazinho","RS",-28.27356,-52.68206,"soybean",72.5,14.27,"Fusarium graminearum","15-ADON",200
+"83",2,2010,"Carazinho","RS",-28.31694,-52.75322,"soybean",72.5,14.27,"Fusarium graminearum","15-ADON",200
+"84",2,2010,"Carazinho","RS",-28.31694,-52.75322,"soybean",72.5,14.27,"Fusarium graminearum","15-ADON",200
+"85",2,2010,"Carazinho","RS",-28.31694,-52.75322,"soybean",72.5,14.27,"Fusarium graminearum","15-ADON",200
+"86",3,2010,"Carazinho","RS",-28.31694,-52.75322,"soybean",67,18.65,"Fusarium graminearum","15-ADON",300
+"87",3,2010,"Carazinho","RS",-28.31694,-52.75322,"soybean",67,18.65,"Fusarium graminearum","15-ADON",300
+"88",3,2010,"Carazinho","RS",-28.31181,-52.80419,"soybean",67,18.65,"Fusarium graminearum","15-ADON",300
+"89",3,2010,"Carazinho","RS",-28.31181,-52.80419,"soybean",67,18.65,"Fusarium graminearum","15-ADON",300
+"90",3,2010,"Carazinho","RS",-28.31181,-52.80419,"soybean",67,18.65,"Fusarium graminearum","15-ADON",300
+"91",4,2010,"Carazinho","RS",-28.31231,-51.36056,"soybean",43.5,17.48,"Fcor","3-ADON",400
+"92",4,2010,"Carazinho","RS",-28.31181,-52.80419,"soybean",43.5,17.48,"Fusarium graminearum","15-ADON",400
+"93",4,2010,"Carazinho","RS",-28.33603,-52.84528,"soybean",43.5,17.48,"Fusarium graminearum","15-ADON",400
+"94",4,2010,"Carazinho","RS",-28.33603,-52.84528,"soybean",43.5,17.48,"Fusarium graminearum","15-ADON",400
+"95",4,2010,"Carazinho","RS",-28.33603,-52.84528,"soybean",43.5,17.48,"Fusarium graminearum","15-ADON",400
+"96",5,2010,"Carazinho","RS",-28.33483,-52.88072,"soybean",26,6.1,"Fusarium graminearum","15-ADON",500
+"97",5,2010,"Carazinho","RS",-28.33483,-52.88072,"soybean",26,6.1,"Fusarium graminearum","15-ADON",500
+"98",5,2010,"Carazinho","RS",-28.33483,-52.88072,"soybean",26,6.1,"Fusarium graminearum","15-ADON",500
+"99",5,2010,"Carazinho","RS",-28.42153,-51.03992,"soybean",26,6.1,"Fusarium graminearum","15-ADON",500
+"100",6,2010,"Carazinho","RS",-28.26644,-51.66858,"soybean",70.71,8.13,"Fasi","NIV",600
+"101",6,2010,"Carazinho","RS",-28.33483,-52.88072,"soybean",70.71,8.13,"Fusarium graminearum","15-ADON",600
+"102",6,2010,"Carazinho","RS",-28.35044,-52.94756,"soybean",70.71,8.13,"Fusarium graminearum","15-ADON",600
+"103",6,2010,"Carazinho","RS",-28.35044,-52.94756,"soybean",70.71,8.13,"Fusarium graminearum","15-ADON",600
+"104",6,2010,"Carazinho","RS",-28.35044,-52.94756,"soybean",70.71,8.13,"Fusarium graminearum","15-ADON",600
+"105",7,2010,"Carazinho","RS",-28.35044,-52.94756,"soybean",35,8.02,"Fusarium graminearum","15-ADON",700
+"106",7,2010,"Carazinho","RS",-28.35044,-52.94756,"soybean",35,8.02,"Fusarium graminearum","15-ADON",700
+"107",7,2010,"Carazinho","RS",-28.24944,-51.84692,"soybean",35,8.02,"Fusarium graminearum","15-ADON",700
+"108",7,2010,"Carazinho","RS",-28.24944,-51.84692,"soybean",35,8.02,"Fusarium graminearum","15-ADON",700
+"109",7,2010,"Carazinho","RS",-28.24789,-51.78397,"soybean",35,8.02,"Fusarium graminearum","15-ADON",700
+"110",19,2011,"Carazinho","RS",-28.34244,-52.92094,"corn",9,0.23,"Fusarium graminearum","15-ADON",1900
+"111",19,2011,"Carazinho","RS",-28.48617,-52.81439,"corn",9,0.23,"Fusarium graminearum","15-ADON",1900
+"112",19,2011,"Carazinho","RS",-28.48617,-52.81439,"corn",9,0.23,"Fusarium graminearum","15-ADON",1900
+"113",20,2011,"Carazinho","RS",-28.40244,-53.07792,"soybean",28.5,1.43,"Fusarium graminearum","15-ADON",2000
+"114",26,2009,"Carazinho","RS",-28.147,-52.301,"corn",21.11,1.19,"Fusarium graminearum","15-ADON",2600
+"115",26,2009,"Carazinho","RS",-28.147,-52.301,"corn",21.11,1.19,"Fusarium graminearum","15-ADON",2600
+"116",26,2009,"Carazinho","RS",-28.147,-52.301,"corn",21.11,1.19,"Fusarium graminearum","15-ADON",2600
+"117",28,2011,"Carazinho","RS",-28.20564,-53.47161,"soybean",28.5,1.94,"Fusarium graminearum","15-ADON",2800
+"118",28,2011,"Carazinho","RS",-28.40275,-53.95239,"soybean",28.5,1.94,"Fusarium graminearum","15-ADON",2800
+"119",42,2009,"Carazinho","RS",-28.248,-51.822,"corn",3,0.12,"Fusarium graminearum","15-ADON",4200
+"120",42,2009,"Carazinho","RS",-28.248,-51.822,"corn",3,0.12,"Fusarium graminearum","15-ADON",4200
+"121",42,2009,"Carazinho","RS",-28.248,-51.822,"corn",3,0.12,"Fusarium graminearum","15-ADON",4200
+"122",43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fusarium graminearum","15-ADON",4300
+"123",43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fusarium graminearum","15-ADON",4300
+"124",43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fusarium graminearum","15-ADON",4300
+"125",43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fusarium graminearum","15-ADON",4300
+"126",NA,2009,"Cascavel","PR",-24.95583333,-53.45527778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"127",NA,2009,"Cascavel","PR",-24.95583333,-53.45527778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"128",NA,2009,"Cascavel","PR",-24.95583333,-53.45527778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"129",NA,2009,"Cascavel","PR",-24.95583333,-53.45527778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"130",NA,2009,"Cascavel","PR",-24.95583333,-53.45527778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"131",30,2010,"Caseiros","RS",-28.24789,-51.78397,"corn",37,3.27,"Fusarium graminearum","15-ADON",3000
+"132",30,2010,"Caseiros","RS",-28.24789,-51.78397,"corn",37,3.27,"Fusarium graminearum","15-ADON",3000
+"133",30,2010,"Caseiros","RS",-27.70072,-52.28536,"corn",37,3.27,"Fusarium meridionale","NIV",3000
+"134",31,2010,"Caseiros","RS",-28.24789,-51.78397,"soybean",24.5,2.11,"Fusarium graminearum","15-ADON",3100
+"135",31,2010,"Caseiros","RS",-28.24789,-51.78397,"soybean",24.5,2.11,"Fusarium graminearum","15-ADON",3100
+"136",31,2010,"Caseiros","RS",-28.26644,-51.66858,"soybean",24.5,2.11,"Fusarium graminearum","15-ADON",3100
+"137",31,2010,"Caseiros","RS",-28.26644,-51.66858,"soybean",24.5,2.11,"Fusarium graminearum","15-ADON",3100
+"138",31,2010,"Caseiros","RS",-28.17275,-52.31744,"soybean",24.5,2.11,"Fusarium graminearum","15-ADON",3100
+"139",32,2010,"Caseiros","RS",-28.32164,-51.23739,"corn",20,1.67,"Faus","3-ADON",3200
+"140",32,2010,"Caseiros","RS",-28.17275,-52.31744,"corn",20,1.67,"Fusarium graminearum","15-ADON",3200
+"141",32,2010,"Caseiros","RS",-28.17275,-52.31744,"corn",20,1.67,"Fusarium graminearum","15-ADON",3200
+"142",32,2010,"Caseiros","RS",-28.14261,-51.69828,"corn",20,1.67,"Fusarium meridionale","NIV",3200
+"143",32,2010,"Caseiros","RS",-28.14261,-51.69828,"corn",20,1.67,"Fusarium meridionale","NIV",3200
+"144",18,2011,"Colorado","RS",-28.42317,-53.91117,"soybean",17,0.61,"Fusarium graminearum","15-ADON",1800
+"145",12,2009,"Condor","RS",-27.764,-53.32,"corn",44,2.24,"Fusarium graminearum","15-ADON",1200
+"146",12,2009,"Condor","RS",-27.764,-53.32,"corn",44,2.24,"Fusarium graminearum","15-ADON",1200
+"147",13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fusarium graminearum","15-ADON",1300
+"148",13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fusarium graminearum","15-ADON",1300
+"149",13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fusarium graminearum","15-ADON",1300
+"150",13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fusarium graminearum","15-ADON",1300
+"151",13,2011,"Condor","RS",-28.52192,-53.79314,"soybean",15,0.35,"Fusarium graminearum","15-ADON",1300
+"152",14,2009,"Condor","RS",-27.722,-53.239,"soybean",55,6.24,"Fusarium graminearum","15-ADON",1400
+"153",14,2009,"Condor","RS",-27.722,-53.239,"soybean",55,6.24,"Fusarium graminearum","15-ADON",1400
+"154",NA,2009,"Corbelia","PR",-24.29277778,-53.3125,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"155",NA,2009,"Corbelia","PR",-24.29277778,-53.3125,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"156",NA,2009,"Cornelio Procopio","PR",-23.18111111,-50.64666667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"157",NA,2009,"Cornelio Procopio","PR",-23.18111111,-50.64666667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"158",NA,2009,"Cornelio Procopio","PR",-23.18111111,-50.64666667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"159",NA,2009,"Cornelio Procopio","PR",-23.18111111,-50.64666667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"160",NA,2009,"Cornelio Procopio","PR",-23.18111111,-50.64666667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"161",44,2009,"Coronel Barros","RS",-28.218,-51.579,"corn",8,0.37,"Fusarium graminearum","15-ADON",4400
+"162",44,2009,"Coronel Barros","RS",-28.218,-51.579,"corn",8,0.37,"Fusarium graminearum","15-ADON",4400
+"163",44,2009,"Coronel Barros","RS",-28.218,-51.579,"corn",8,0.37,"Fusarium graminearum","15-ADON",4400
+"164",45,2009,"Coronel Barros","RS",-28.218,-51.509,"soybean",29.5,3.66,"Fusarium graminearum","15-ADON",4500
+"165",45,2009,"Coronel Barros","RS",-28.218,-51.509,"soybean",29.5,3.66,"Fusarium graminearum","15-ADON",4500
+"166",45,2009,"Coronel Barros","RS",-28.218,-51.509,"soybean",29.5,3.66,"Fusarium graminearum","15-ADON",4500
+"167",46,2009,"Coronel Barros","RS",-28.276,-51.467,"soybean",10,0.38,"Fusarium graminearum","15-ADON",4600
+"168",10,2010,"Coxilha","RS",-28.17275,-52.31744,"soybean",63.5,13.31,"Fusarium graminearum","15-ADON",1000
+"169",10,2010,"Coxilha","RS",-28.17275,-52.31744,"soybean",63.5,13.31,"Fusarium graminearum","15-ADON",1000
+"170",10,2010,"Coxilha","RS",-28.10436,-52.27589,"soybean",63.5,13.31,"Fusarium graminearum","15-ADON",1000
+"171",10,2010,"Coxilha","RS",-28.10436,-52.27589,"soybean",63.5,13.31,"Fusarium graminearum","15-ADON",1000
+"172",10,2010,"Coxilha","RS",-28.10436,-52.27589,"soybean",63.5,13.31,"Fusarium graminearum","15-ADON",1000
+"173",11,2010,"Coxilha","RS",-28.10436,-52.27589,"soybean",44.5,4.99,"Fusarium graminearum","15-ADON",1100
+"174",11,2010,"Coxilha","RS",-28.10436,-52.27589,"soybean",44.5,4.99,"Fusarium graminearum","15-ADON",1100
+"175",11,2010,"Coxilha","RS",-28.13178,-52.26639,"soybean",44.5,4.99,"Fusarium graminearum","15-ADON",1100
+"176",11,2010,"Coxilha","RS",-28.13178,-52.26639,"soybean",44.5,4.99,"Fusarium graminearum","15-ADON",1100
+"177",11,2010,"Coxilha","RS",-28.13178,-52.26639,"soybean",44.5,4.99,"Fusarium graminearum","15-ADON",1100
+"178",18,2010,"Coxilha","RS",-28.13178,-52.26639,"soybean",65.5,3.95,"Fusarium graminearum","15-ADON",1800
+"179",18,2010,"Coxilha","RS",-28.13178,-52.26639,"soybean",65.5,3.95,"Fusarium graminearum","15-ADON",1800
+"180",18,2010,"Coxilha","RS",-28.13794,-52.21681,"soybean",65.5,3.95,"Fusarium graminearum","15-ADON",1800
+"181",18,2010,"Coxilha","RS",-28.13794,-52.21681,"soybean",65.5,3.95,"Fusarium graminearum","15-ADON",1800
+"182",18,2010,"Coxilha","RS",-28.13794,-52.21681,"soybean",65.5,3.95,"Fusarium graminearum","15-ADON",1800
+"183",19,2010,"Coxilha","RS",-27.78344,-52.26544,"soybean",65,6.22,"Fusarium graminearum","15-ADON",1900
+"184",19,2010,"Coxilha","RS",-27.78344,-52.26544,"soybean",65,6.22,"Fusarium graminearum","15-ADON",1900
+"185",19,2010,"Coxilha","RS",-27.78344,-52.26544,"soybean",65,6.22,"Fusarium graminearum","15-ADON",1900
+"186",37,2009,"Coxilha","RS",-28.267,-52.206,NA,0,0,"Fusarium graminearum","15-ADON",3700
+"187",37,2009,"Coxilha","RS",-28.267,-52.206,NA,0,0,"Fusarium graminearum","15-ADON",3700
+"188",37,2009,"Coxilha","RS",-28.267,-52.206,NA,0,0,"Fusarium graminearum","15-ADON",3700
+"189",38,2009,"Coxilha","RS",-28.306,-52.135,"corn",5,0.31,"Fusarium graminearum","15-ADON",3800
+"190",38,2009,"Coxilha","RS",-28.306,-52.135,"corn",5,0.31,"Fusarium graminearum","15-ADON",3800
+"191",38,2009,"Coxilha","RS",-28.306,-52.135,"corn",5,0.31,"Fusarium graminearum","15-ADON",3800
+"192",39,2009,"Coxilha","RS",-28.446,-53.531,"soybean",6,0.33,"Fusarium graminearum","15-ADON",3900
+"193",39,2009,"Coxilha","RS",-28.446,-53.531,"soybean",6,0.33,"Fusarium graminearum","15-ADON",3900
+"194",39,2009,"Coxilha","RS",-28.446,-53.531,"soybean",6,0.33,"Fusarium graminearum","15-ADON",3900
+"195",39,2009,"Coxilha","RS",-28.825,-53.613,"soybean",6,0.33,"Fusarium meridionale","NIV",3900
+"196",7,2009,"Cruz Alta","RS",-28.171,-53.472,"soybean",31.5,2.53,"Fusarium graminearum","15-ADON",700
+"197",7,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",31.5,2.53,"Fusarium graminearum","15-ADON",700
+"198",7,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",31.5,2.53,"Fusarium graminearum","15-ADON",700
+"199",8,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",50.5,4.83,"Fusarium graminearum","15-ADON",800
+"200",9,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",56,3.22,"Fusarium graminearum","15-ADON",900
+"201",9,2009,"Cruz Alta","RS",-28.027,-53.357,"soybean",56,3.22,"Fusarium graminearum","15-ADON",900
+"202",9,2009,"Cruz Alta","RS",-28.027,-53.357,"soybean",56,3.22,"Fusarium graminearum","15-ADON",900
+"203",9,2009,"Cruz Alta","RS",-28.027,-53.357,"soybean",56,3.22,"Fusarium graminearum","15-ADON",900
+"204",10,2009,"Cruz Alta","RS",-28.344,-51.147,"soybean",43,3.2,"Fusarium graminearum","15-ADON",1000
+"205",10,2009,"Cruz Alta","RS",-28.344,-51.147,"soybean",43,3.2,"Fusarium graminearum","15-ADON",1000
+"206",10,2009,"Cruz Alta","RS",-28.344,-51.147,"soybean",43,3.2,"Fusarium graminearum","15-ADON",1000
+"207",49,2009,"Entre-Ijuis","RS",-28.344,-51.147,"corn",26.5,1.46,"Fusarium graminearum","15-ADON",4900
+"208",49,2009,"Entre-Ijuis","RS",-28.358,-54.21,"corn",26.5,1.46,"Fusarium graminearum","15-ADON",4900
+"209",49,2009,"Entre-Ijuis","RS",-28.358,-54.21,"corn",26.5,1.46,"Fusarium graminearum","15-ADON",4900
+"210",49,2009,"Entre-Ijuis","RS",-28.39,-53.982,"corn",26.5,1.46,"Fusarium graminearum","15-ADON",4900
+"211",16,2010,"Erechim","RS",-27.78344,-52.26544,"soybean",39,4.23,"Fusarium graminearum","15-ADON",1600
+"212",16,2010,"Erechim","RS",-27.70072,-52.28536,"soybean",39,4.23,"Fusarium graminearum","15-ADON",1600
+"213",16,2010,"Erechim","RS",-27.70072,-52.28536,"soybean",39,4.23,"Fusarium graminearum","15-ADON",1600
+"214",16,2010,"Erechim","RS",-27.70072,-52.28536,"soybean",39,4.23,"Fusarium graminearum","15-ADON",1600
+"215",17,2010,"Erechim","RS",-28.14261,-51.69828,"soybean",26,1.1,"Fcor","NIV",1700
+"216",17,2010,"Erechim","RS",-27.70072,-52.28536,"soybean",26,1.1,"Fusarium graminearum","15-ADON",1700
+"217",17,2010,"Erechim","RS",-27.91617,-52.23206,"soybean",26,1.1,"Fusarium graminearum","15-ADON",1700
+"218",17,2010,"Erechim","RS",-27.91617,-52.23206,"soybean",26,1.1,"Fusarium graminearum","15-ADON",1700
+"219",17,2010,"Erechim","RS",-27.91617,-52.23206,"soybean",26,1.1,"Fusarium graminearum","15-ADON",1700
+"220",34,2009,"Ernestina","RS",-28.381,-53.306,"soybean",27.22,2.65,"Fusarium meridionale","NIV",3400
+"221",35,2009,"Ernestina","RS",-28.39,-53.982,"soybean",19.74,2.64,"Fusarium graminearum","15-ADON",3500
+"222",35,2009,"Ernestina","RS",-28.39,-53.982,"soybean",19.74,2.64,"Fusarium graminearum","15-ADON",3500
+"223",36,2009,"Ernestina","RS",-28.39,-53.982,"soybean",23.5,6.34,"Fusarium graminearum","15-ADON",3600
+"224",36,2009,"Ernestina","RS",-28.293,-51.409,"soybean",23.5,6.34,"Fusarium graminearum","15-ADON",3600
+"225",36,2009,"Ernestina","RS",-28.293,-51.409,"soybean",23.5,6.34,"Fusarium graminearum","15-ADON",3600
+"226",36,2009,"Ernestina","RS",-28.327,-51.271,"soybean",23.5,6.34,"Fusarium graminearum","15-ADON",3600
+"227",15,2010,"Estacao","RS",-27.91617,-52.23206,"soybean",42,1.63,"Fusarium graminearum","15-ADON",1500
+"228",15,2010,"Estacao","RS",-27.91617,-52.23206,"soybean",42,1.63,"Fusarium graminearum","15-ADON",1500
+"229",15,2010,"Estacao","RS",-28.14261,-51.69828,"soybean",42,1.63,"Fusarium graminearum","15-ADON",1500
+"230",15,2010,"Estacao","RS",-28.14261,-51.69828,"soybean",42,1.63,"Fusarium graminearum","15-ADON",1500
+"231",15,2010,"Estacao","RS",-28.17861,-51.64911,"soybean",42,1.63,"Fusarium meridionale","15-ADON",1500
+"232",NA,2009,"Farol","PR",-24.09972222,-52.62333333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"233",NA,2009,"Farol","PR",-24.09972222,-52.62333333,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"234",NA,2009,"Formosa do Oeste","PR",-24.29277778,-53.3125,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"235",NA,2009,"Formosa do Oeste","PR",-24.29277778,-53.3125,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"236",NA,2009,"Formosa do Oeste","PR",-24.29277778,-53.3125,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"237",NA,2009,"Formosa do Oeste","PR",-24.29277778,-53.3125,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"238",34,2010,"Ibiaca","RS",-28.31231,-51.36056,"corn",6,0.47,"Fcor","NIV",3400
+"239",34,2010,"Ibiaca","RS",-28.17861,-51.64911,"corn",6,0.47,"Fusarium graminearum","15-ADON",3400
+"240",34,2010,"Ibiaca","RS",-28.17861,-51.64911,"corn",6,0.47,"Fusarium graminearum","15-ADON",3400
+"241",34,2010,"Ibiaca","RS",-28.31231,-51.36056,"corn",6,0.47,"Fusarium meridionale","NIV",3400
+"242",34,2010,"Ibiaca","RS",-28.27044,-51.92267,"corn",6,0.47,"Fusarium meridionale","NIV",3400
+"243",1,2011,"Ijui","RS",-28.36456,-53.79106,"soybean",37,1.16,"Fusarium graminearum","15-ADON",100
+"244",1,2011,"Ijui","RS",-28.37986,-52.78922,"soybean",37,1.16,"Fusarium meridionale","NIV",100
+"245",1,2011,"Ijui","RS",-28.068,-53.3935,"soybean",37,1.16,"Fusarium meridionale","NIV",100
+"246",2,2011,"Ijui","RS",-28.46053,-53.86439,"soybean",2.5,0.07,"Fusarium graminearum","15-ADON",200
+"247",2,2011,"Ijui","RS",-28.38306,-54.03853,"soybean",2.5,0.07,"Fusarium graminearum","15-ADON",200
+"248",2,2011,"Ijui","RS",-28.38306,-54.03853,"soybean",2.5,0.07,"Fusarium graminearum","15-ADON",200
+"249",2,2011,"Ijui","RS",-28.07047,-51.91642,"soybean",2.5,0.07,"Fusarium graminearum","15-ADON",200
+"250",4,2011,"Ijui","RS",-28.42317,-53.91117,"soybean",7,0.16,"Fusarium graminearum","15-ADON",400
+"251",4,2011,"Ijui","RS",-28.42317,-53.91117,"soybean",7,0.16,"Fusarium graminearum","15-ADON",400
+"252",4,2011,"Ijui","RS",-28.42317,-53.91117,"soybean",7,0.16,"Fusarium graminearum","15-ADON",400
+"253",4,2011,"Ijui","RS",-28.37331,-53.83989,"soybean",7,0.16,"Fusarium graminearum","15-ADON",400
+"254",5,2011,"Ijui","RS",-28.46053,-53.86439,"soybean",14,0.35,"Fusarium graminearum","15-ADON",500
+"255",5,2011,"Ijui","RS",-28.46053,-53.86439,"soybean",14,0.35,"Fusarium graminearum","15-ADON",500
+"256",5,2011,"Ijui","RS",-28.07047,-51.91642,"soybean",14,0.35,"Fusarium graminearum","15-ADON",500
+"257",6,2011,"Ijui","RS",-28.37331,-53.83989,"soybean",8,0.35,"Fusarium graminearum","15-ADON",600
+"258",6,2011,"Ijui","RS",-28.07047,-51.91642,"soybean",8,0.35,"Fusarium graminearum","15-ADON",600
+"259",7,2011,"Ijui","RS",-28.37331,-53.83989,"soybean",2,0.03,"Fusarium graminearum","15-ADON",700
+"260",7,2011,"Ijui","RS",-28.38306,-54.03853,"soybean",2,0.03,"Fusarium graminearum","15-ADON",700
+"261",7,2011,"Ijui","RS",-28.36456,-53.79106,"soybean",2,0.03,"Fusarium graminearum","15-ADON",700
+"262",7,2011,"Ijui","RS",-28.28686,-52.70706,"soybean",2,0.03,"Fusarium meridionale","NIV",700
+"263",8,2011,"Ijui","RS",-28.40275,-53.95239,"soybean",8.5,1.29,"Fasi","NIV",800
+"264",8,2011,"Ijui","RS",-28.37331,-53.83989,"soybean",8.5,1.29,"Fasi","NIV",800
+"265",8,2011,"Ijui","RS",-28.36456,-53.79106,"soybean",8.5,1.29,"Fusarium graminearum","15-ADON",800
+"266",8,2011,"Ijui","RS",-28.38306,-54.03853,"soybean",8.5,1.29,"Fusarium graminearum","15-ADON",800
+"267",8,2011,"Ijui","RS",-28.52192,-53.79314,"soybean",8.5,1.29,"Fusarium graminearum","15-ADON",800
+"268",47,2009,"Ijui","RS",-28.327,-51.271,"corn",21.5,0.93,"Fusarium graminearum","15-ADON",4700
+"269",47,2009,"Ijui","RS",-28.587,-52.627,"corn",21.5,0.93,"Fusarium graminearum","15-ADON",4700
+"270",48,2009,"Ijui","RS",-28.587,-52.627,"soybean",5,0.55,"Fusarium graminearum","15-ADON",4800
+"271",48,2009,"Ijui","RS",-28.491,-52.561,"soybean",5,0.55,"Fusarium graminearum","15-ADON",4800
+"272",NA,2009,"Janiopolis","PR",-24.14194444,-52.78166667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"273",NA,2009,"Janiopolis","PR",-24.14194444,-52.78166667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"274",NA,2009,"Janiopolis","PR",-24.14194444,-52.78166667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"275",NA,2009,"Jataizinho","PR",-23.25416667,-50.98,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"276",NA,2009,"Jataizinho","PR",-23.25416667,-50.98,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"277",NA,2009,"Jataizinho","PR",-23.25416667,-50.98,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"278",NA,2009,"Jataizinho","PR",-23.25416667,-50.98,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"279",NA,2009,"Jataizinho","PR",-23.25416667,-50.98,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"280",NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"281",NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"282",NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"283",NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"284",NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"285",NA,2009,"Juranda","PR",-24.42027778,-52.84305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"286",NA,2009,"Juranda","PR",-24.42027778,-52.84305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"287",NA,2009,"Juranda","PR",-24.42027778,-52.84305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"288",NA,2009,"Juranda","PR",-24.42027778,-52.84305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"289",NA,2009,"Juranda","PR",-24.42027778,-52.84305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"290",23,2009,"Lageado do Bugre","RS",-28.491,-52.561,"soybean",25.5,2.22,"Fusarium graminearum","15-ADON",2300
+"291",23,2009,"Lageado do Bugre","RS",-28.137,-52.207,"soybean",25.5,2.22,"Fusarium graminearum","15-ADON",2300
+"292",24,2009,"Lageado do Bugre","RS",-28.137,-52.207,"soybean",71,5.22,"Fusarium graminearum","15-ADON",2400
+"293",24,2009,"Lageado do Bugre","RS",-28.137,-52.207,"soybean",71,5.22,"Fusarium graminearum","15-ADON",2400
+"294",33,2010,"Lagoa Vermelha","RS",-28.17861,-51.64911,"corn",41.5,1.08,"Fusarium graminearum","15-ADON",3300
+"295",33,2010,"Lagoa Vermelha","RS",-28.17861,-51.64911,"corn",41.5,1.08,"Fusarium graminearum","15-ADON",3300
+"296",33,2010,"Lagoa Vermelha","RS",-28.17861,-51.64911,"corn",41.5,1.08,"Fusarium graminearum","15-ADON",3300
+"297",33,2010,"Lagoa Vermelha","RS",-28.22347,-51.50097,"corn",41.5,1.08,"Fusarium graminearum","15-ADON",3300
+"298",33,2010,"Lagoa Vermelha","RS",-28.22347,-51.50097,"corn",41.5,1.08,"Fusarium graminearum","15-ADON",3300
+"299",33,2010,"Lagoa Vermelha","RS",-28.22347,-51.50097,"corn",41.5,1.08,"Fusarium graminearum","15-ADON",3300
+"300",37,2010,"Lagoa Vermelha","RS",-28.22347,-51.50097,"soybean",25.5,0.34,"Fusarium graminearum","15-ADON",3700
+"301",37,2010,"Lagoa Vermelha","RS",-28.31231,-51.36056,"soybean",25.5,0.34,"Fusarium graminearum","15-ADON",3700
+"302",37,2010,"Lagoa Vermelha","RS",-28.31231,-51.36056,"soybean",25.5,0.34,"Fusarium graminearum","15-ADON",3700
+"303",37,2010,"Lagoa Vermelha","RS",-28.33378,-51.30022,"soybean",25.5,0.34,"Fusarium graminearum","15-ADON",3700
+"304",39,2010,"Lagoa Vermelha","RS",-28.17861,-51.64911,"soybean",25.5,0.9,"Fcor","3-ADON",3900
+"305",39,2010,"Lagoa Vermelha","RS",-28.27044,-51.92267,"soybean",25.5,0.9,"Fcor","NIV",3900
+"306",39,2010,"Lagoa Vermelha","RS",-27.97308,-51.78419,"soybean",25.5,0.9,"Fcor","NIV",3900
+"307",39,2010,"Lagoa Vermelha","RS",-28.33378,-51.30022,"soybean",25.5,0.9,"Fusarium graminearum","15-ADON",3900
+"308",39,2010,"Lagoa Vermelha","RS",-28.33378,-51.30022,"soybean",25.5,0.9,"Fusarium graminearum","15-ADON",3900
+"309",40,2010,"Lagoa Vermelha","RS",-28.33378,-51.30022,"corn",11.5,0.74,"Fusarium graminearum","15-ADON",4000
+"310",40,2010,"Lagoa Vermelha","RS",-28.33378,-51.30022,"corn",11.5,0.74,"Fusarium graminearum","15-ADON",4000
+"311",40,2010,"Lagoa Vermelha","RS",-28.32164,-51.23739,"corn",11.5,0.74,"Fusarium graminearum","15-ADON",4000
+"312",40,2010,"Lagoa Vermelha","RS",-28.32164,-51.23739,"corn",11.5,0.74,"Fusarium graminearum","15-ADON",4000
+"313",40,2010,"Lagoa Vermelha","RS",-28.32164,-51.23739,"corn",11.5,0.74,"Fusarium graminearum","15-ADON",4000
+"314",41,2010,"Lagoa Vermelha","RS",-28.17861,-51.64911,"corn",12,0.32,"Faus","3-ADON",4100
+"315",41,2010,"Lagoa Vermelha","RS",-28.17861,-51.64911,"corn",12,0.32,"Fcor","3-ADON",4100
+"316",41,2010,"Lagoa Vermelha","RS",-28.27044,-51.92267,"corn",12,0.32,"Fusarium graminearum","15-ADON",4100
+"317",41,2010,"Lagoa Vermelha","RS",-28.27044,-51.92267,"corn",12,0.32,"Fusarium graminearum","15-ADON",4100
+"318",41,2010,"Lagoa Vermelha","RS",-28.27044,-51.92267,"corn",12,0.32,"Fusarium graminearum","15-ADON",4100
+"319",50,2011,"Lagoa Vermelha","RS",-28.07047,-51.91642,"soybean",16,0.65,"Fusarium graminearum","15-ADON",5000
+"320",50,2011,"Lagoa Vermelha","RS",-28.37986,-52.78922,"soybean",16,0.65,"Fusarium graminearum","15-ADON",5000
+"321",50,2011,"Lagoa Vermelha","RS",-28.37986,-52.78922,"soybean",16,0.65,"Fusarium graminearum","15-ADON",5000
+"322",50,2011,"Lagoa Vermelha","RS",-28.26447,-52.21114,"soybean",16,0.65,"Fusarium graminearum","15-ADON",5000
+"323",NA,2009,"Mambore","PR",-24.32194444,-52.53,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"324",NA,2009,"Mambore","PR",-24.32194444,-52.53,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"325",NA,2009,"Mambore","PR",-24.32194444,-52.53,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"326",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"327",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"328",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"329",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"330",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"331",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"332",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"333",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"334",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"335",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"336",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"337",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"338",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"339",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"340",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"341",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"342",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"343",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"344",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"345",NA,2011,"Manoel Ribas","PR",-24.51638889,-51.66777778,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"346",29,2011,"Marau","RS",-28.64086,-52.85092,"soybean",59.5,5.04,"Fusarium graminearum","15-ADON",2900
+"347",29,2011,"Marau","RS",-28.64086,-52.85092,"soybean",59.5,5.04,"Fusarium graminearum","15-ADON",2900
+"348",29,2011,"Marau","RS",-28.62231,-52.74708,"soybean",59.5,5.04,"Fusarium meridionale","NIV",2900
+"349",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"350",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"351",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"352",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"353",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"354",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"355",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"356",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"357",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"358",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"359",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"360",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"361",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"362",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"363",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"364",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"365",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"366",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"367",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"368",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"369",NA,2009,"Maringa","PR",-23.42527778,-51.93861111,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"370",27,2010,"Mato Castelhano","RS",-28.04308,-52.27006,"corn",50,1.06,"Fcor","NIV",2700
+"371",27,2010,"Mato Castelhano","RS",-28.2113,-52.35542,"corn",50,1.06,"Fusarium graminearum","15-ADON",2700
+"372",27,2010,"Mato Castelhano","RS",-28.21131,-52.35542,"corn",50,1.06,"Fusarium graminearum","15-ADON",2700
+"373",27,2010,"Mato Castelhano","RS",-28.21131,-52.35542,"corn",50,1.06,"Fusarium graminearum","15-ADON",2700
+"374",27,2010,"Mato Castelhano","RS",-28.08597,-52.02053,"corn",50,1.06,"Fusarium meridionale","NIV",2700
+"375",38,2011,"Mato Castelhano","RS",-28.64086,-52.85092,"soybean",14.5,1.54,"Fusarium graminearum","15-ADON",3800
+"376",26,2011,"Nao-me-Toque","RS",-28.64086,-52.85092,"corn",5.5,0.38,"Fusarium graminearum","15-ADON",2600
+"377",26,2011,"Nao-me-Toque","RS",-28.60225,-52.86258,"corn",5.5,0.38,"Fusarium graminearum","15-ADON",2600
+"378",26,2011,"Nao-me-Toque","RS",-28.64086,-52.85092,"corn",5.5,0.38,"Fusarium graminearum","15-ADON",2600
+"379",26,2011,"Nao-me-Toque","RS",-28.64086,-52.85092,"corn",5.5,0.38,"Fusarium graminearum","15-ADON",2600
+"380",26,2011,"Nao-me-Toque","RS",-28.34125,-53.50169,"corn",5.5,0.38,"Fusarium graminearum","15-ADON",2600
+"381",26,2011,"Nao-me-Toque","RS",-28.38889,-53.25869,"corn",5.5,0.38,"Fusarium graminearum","15-ADON",2600
+"382",27,2009,"Nao-me-Toque","RS",-28.146,-52.418,"corn",6,0.31,"Fusarium graminearum","15-ADON",2700
+"383",27,2009,"Nao-me-Toque","RS",-28.245,-52.572,"corn",6,0.31,"Fusarium graminearum","15-ADON",2700
+"384",27,2009,"Nao-me-Toque","RS",-28.245,-52.572,"corn",6,0.31,"Fusarium graminearum","15-ADON",2700
+"385",27,2011,"Nao-me-Toque","RS",-28.13417,-53.44453,"soybean",36.5,2.57,"Fusarium graminearum","15-ADON",2700
+"386",28,2009,"Nao-me-Toque","RS",-28.245,-52.572,"soybean",24.34,1.24,"Fusarium graminearum","15-ADON",2800
+"387",29,2009,"Nao-me-Toque","RS",-27.734,-53.168,"soybean",17.89,0.26,"Fusarium graminearum","15-ADON",2900
+"388",29,2009,"Nao-me-Toque","RS",-27.734,-53.168,"soybean",17.89,0.26,"Fusarium graminearum","15-ADON",2900
+"389",29,2009,"Nao-me-Toque","RS",-27.734,-53.168,"soybean",17.89,0.26,"Fusarium graminearum","15-ADON",2900
+"390",14,2011,"Palmeira das Missoes","RS",-28.34125,-53.50169,"soybean",5.5,0.76,"Fusarium graminearum","15-ADON",1400
+"391",15,2009,"Palmeira das Missoes","RS",-27.849,-53.365,"corn",89.95,18.51,"Fusarium graminearum","15-ADON",1500
+"392",15,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"corn",89.95,18.51,"Fusarium graminearum","15-ADON",1500
+"393",15,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"corn",89.95,18.51,"Fusarium graminearum","15-ADON",1500
+"394",16,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"corn",52.5,4.53,"Fusarium graminearum","15-ADON",1600
+"395",17,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"soybean",41.5,1.78,"Fusarium graminearum","15-ADON",1700
+"396",17,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",41.5,1.78,"Fusarium graminearum","15-ADON",1700
+"397",17,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",41.5,1.78,"Fusarium graminearum","15-ADON",1700
+"398",17,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",41.5,1.78,"Fusarium graminearum","15-ADON",1700
+"399",18,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",56.5,6.2,"Fusarium graminearum","15-ADON",1800
+"400",18,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",56.5,6.2,"Fusarium graminearum","15-ADON",1800
+"401",18,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",56.5,6.2,"Fusarium graminearum","15-ADON",1800
+"402",18,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",56.5,6.2,"Fusarium graminearum","15-ADON",1800
+"403",19,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",53.85,4.43,"Fusarium graminearum","15-ADON",1900
+"404",19,2009,"Palmeira das Missoes","RS",-28.443,-52.81,"soybean",53.85,4.43,"Fusarium graminearum","15-ADON",1900
+"405",19,2009,"Palmeira das Missoes","RS",-28.443,-52.81,"soybean",53.85,4.43,"Fusarium graminearum","15-ADON",1900
+"406",19,2009,"Palmeira das Missoes","RS",-28.443,-52.81,"soybean",53.85,4.43,"Fusarium graminearum","15-ADON",1900
+"407",20,2009,"Palmeira das Missoes","RS",-28.566,-53.562,"corn",52.53,4.05,"Fusarium graminearum","15-ADON",2000
+"408",20,2009,"Palmeira das Missoes","RS",-28.566,-53.562,"corn",52.53,4.05,"Fusarium graminearum","15-ADON",2000
+"409",20,2009,"Palmeira das Missoes","RS",-28.825,-53.613,"corn",52.53,4.05,"Fusarium graminearum","15-ADON",2000
+"410",20,2009,"Palmeira das Missoes","RS",-28.366,-53.421,"corn",52.53,4.05,"Fusarium meridionale","NIV",2000
+"411",4,2009,"Panambi","RS",-28.825,-53.613,"soybean",42,3.25,"Fusarium graminearum","15-ADON",400
+"412",4,2009,"Panambi","RS",-28.825,-53.613,"soybean",42,3.25,"Fusarium graminearum","15-ADON",400
+"413",5,2009,"Panambi","RS",-28.39,-54.6,"soybean",35,2.12,"Fcor","NIV",500
+"414",5,2009,"Panambi","RS",-28.825,-53.613,"soybean",35,2.12,"Fusarium graminearum","15-ADON",500
+"415",5,2009,"Panambi","RS",-28.6,-53.574,"soybean",35,2.12,"Fusarium graminearum","15-ADON",500
+"416",5,2009,"Panambi","RS",-28.301,-52.016,"soybean",35,2.12,"Fusarium graminearum","15-ADON",500
+"417",5,2009,"Panambi","RS",-28.301,-52.016,"soybean",35,2.12,"Fusarium graminearum","15-ADON",500
+"418",6,2009,"Panambi","RS",-28.266,-51.919,"soybean",36.5,1.26,"Fusarium graminearum","15-ADON",600
+"419",11,2011,"Panambi","RS",-28.068,-53.3935,"soybean",9.5,2.34,"Fusarium graminearum","15-ADON",1100
+"420",11,2011,"Panambi","RS",-28.26447,-53.48119,"soybean",9.5,2.34,"Fusarium graminearum","15-ADON",1100
+"421",11,2011,"Panambi","RS",-28.26447,-53.48119,"soybean",9.5,2.34,"Fusarium graminearum","15-ADON",1100
+"422",12,2011,"Panambi","RS",-28.34644,-53.53064,"soybean",13.5,0.75,"Fusarium graminearum","15-ADON",1200
+"423",12,2011,"Panambi","RS",-28.38889,-53.25869,"soybean",13.5,0.75,"Fusarium graminearum","15-ADON",1200
+"424",12,2011,"Panambi","RS",-28.38889,-53.25869,"soybean",13.5,0.75,"Fusarium graminearum","15-ADON",1200
+"425",15,2011,"Panambi","RS",-28.39694,-51.15861,"soybean",6,0.74,"Fcor","NIV",1500
+"426",15,2011,"Panambi","RS",-28.068,-53.3935,"soybean",6,0.74,"Fusarium graminearum","15-ADON",1500
+"427",15,2011,"Panambi","RS",-28.26447,-53.48119,"soybean",6,0.74,"Fusarium graminearum","15-ADON",1500
+"428",16,2011,"Panambi","RS",-28.38889,-53.25869,"corn",3.5,0.09,"Fusarium graminearum","15-ADON",1600
+"429",17,2011,"Panambi","RS",-28.34125,-53.50169,"corn",14.5,0.7,"Fusarium graminearum","15-ADON",1700
+"430",17,2011,"Panambi","RS",-28.30167,-52.04822,"corn",14.5,0.7,"Fusarium graminearum","15-ADON",1700
+"431",17,2011,"Panambi","RS",-28.30167,-52.04822,"corn",14.5,0.7,"Fusarium graminearum","15-ADON",1700
+"432",17,2011,"Panambi","RS",-28.38442,-53.35019,"corn",14.5,0.7,"Fusarium graminearum","15-ADON",1700
+"433",1,2010,"Passo Fundo","RS",-28.21131,-52.35542,"soybean",63.68,7.62,"Fusarium graminearum","15-ADON",100
+"434",1,2010,"Passo Fundo","RS",-28.24625,-52.29503,"soybean",63.68,7.62,"Fusarium graminearum","15-ADON",100
+"435",1,2010,"Passo Fundo","RS",-28.24625,-52.29503,"soybean",63.68,7.62,"Fusarium graminearum","15-ADON",100
+"436",1,2010,"Passo Fundo","RS",-28.24625,-52.29503,"soybean",63.68,7.62,"Fusarium graminearum","15-ADON",100
+"437",23,2010,"Passo Fundo","RS",-28.30069,-52.14589,"soybean",55.28,3.36,"Fusarium graminearum","15-ADON",2300
+"438",23,2010,"Passo Fundo","RS",-28.30069,-52.14589,"soybean",55.28,3.36,"Fusarium graminearum","15-ADON",2300
+"439",23,2010,"Passo Fundo","RS",-28.30069,-52.14589,"soybean",55.28,3.36,"Fusarium graminearum","15-ADON",2300
+"440",24,2010,"Passo Fundo","RS",-28.30069,-52.14589,"soybean",52.78,3.31,"Fusarium graminearum","15-ADON",2400
+"441",24,2010,"Passo Fundo","RS",-28.30069,-52.14589,"soybean",52.78,3.31,"Fusarium graminearum","15-ADON",2400
+"442",24,2010,"Passo Fundo","RS",-28.31336,-52.4735,"soybean",52.78,3.31,"Fusarium graminearum","15-ADON",2400
+"443",24,2010,"Passo Fundo","RS",-28.31336,-52.4735,"soybean",52.78,3.31,"Fusarium graminearum","15-ADON",2400
+"444",24,2010,"Passo Fundo","RS",-28.31336,-52.4735,"soybean",52.78,3.31,"Fusarium graminearum","15-ADON",2400
+"445",28,2010,"Passo Fundo","RS",-28.08892,-51.74372,"soybean",45.5,7.94,"Fusarium graminearum","15-ADON",2800
+"446",28,2010,"Passo Fundo","RS",-28.08892,-51.74372,"soybean",45.5,7.94,"Fusarium graminearum","15-ADON",2800
+"447",28,2010,"Passo Fundo","RS",-28.08892,-51.74372,"soybean",45.5,7.94,"Fusarium graminearum","15-ADON",2800
+"448",40,2009,"Passo Fundo","RS",-28.266,-51.919,"potato",6.5,0.66,"Fusarium graminearum","15-ADON",4000
+"449",40,2009,"Passo Fundo","RS",-27.926,-53.317,"potato",6.5,0.66,"Fusarium graminearum","15-ADON",4000
+"450",41,2009,"Passo Fundo","RS",-27.926,-53.317,"corn",2.5,0.24,"Fusarium graminearum","15-ADON",4100
+"451",41,2009,"Passo Fundo","RS",-27.926,-53.317,"corn",2.5,0.24,"Fusarium graminearum","15-ADON",4100
+"452",NA,2009,"Pato Branco","PR",-26.22861111,-52.67055556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"453",NA,2009,"Pato Branco","PR",-26.22861111,-52.67055556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"454",NA,2009,"Pato Branco","PR",-26.22861111,-52.67055556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"455",NA,2009,"Pato Branco","PR",-26.22861111,-52.67055556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"456",NA,2009,"Pato Branco","PR",-26.22861111,-52.67055556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"457",NA,2009,"Pato Branco","PR",-26.22861111,-52.67055556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"458",NA,2009,"Peabiru","PR",-23.91277778,-52.34305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"459",NA,2009,"Peabiru","PR",-23.91277778,-52.34305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"460",NA,2009,"Peabiru","PR",-23.91277778,-52.34305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"461",NA,2009,"Peabiru","PR",-23.91277778,-52.34305556,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"462",NA,2009,"Peabiru","PR",-23.91277778,-52.34305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"463",11,2009,"Pejucara","RS",-27.926,-53.317,"soybean",24.5,1.57,"Fusarium graminearum","15-ADON",1100
+"464",11,2009,"Pejucara","RS",-28.377,-52.519,"soybean",24.5,1.57,"Fusarium graminearum","15-ADON",1100
+"465",11,2009,"Pejucara","RS",-28.377,-52.519,"soybean",24.5,1.57,"Fusarium graminearum","15-ADON",1100
+"466",11,2009,"Pejucara","RS",-28.377,-52.519,"soybean",24.5,1.57,"Fusarium graminearum","15-ADON",1100
+"467",NA,2009,"Ponta Grossa","PR",-25.095,-50.16194444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"468",NA,2009,"Ponta Grossa","PR",-25.095,-50.16194444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"469",NA,2009,"Ponta Grossa","PR",-25.095,-50.16194444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"470",NA,2009,"Ponta Grossa","PR",-25.095,-50.16194444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"471",NA,2009,"Ponta Grossa","PR",-25.095,-50.16194444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"472",NA,2009,"Ponta Grossa","PR",-25.095,-50.16194444,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"473",NA,2009,"Roländia","PR",-23.30972222,-51.36916667,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"474",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Faus","3-ADON",NA
+"475",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Faus","3-ADON",NA
+"476",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Faus","3-ADON",NA
+"477",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Faus","NIV",NA
+"478",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"479",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"480",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"481",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"482",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"483",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"484",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"485",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"486",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"487",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"488",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"489",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"490",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"491",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"492",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"493",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"494",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"495",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"496",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"497",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"498",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"499",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"500",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"501",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"502",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"503",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"504",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"505",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"506",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"507",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"508",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"509",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"510",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"511",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"512",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"513",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"514",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"515",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"516",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"517",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"518",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"519",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"520",NA,2011,"Roncador","PR",-24.60277778,-52.275,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"521",25,2009,"Sagrada Familia","RS",-28.377,-52.519,"corn",16,0.82,"Fusarium graminearum","15-ADON",2500
+"522",25,2009,"Sagrada Familia","RS",-28.381,-53.306,"corn",16,0.82,"Fusarium graminearum","15-ADON",2500
+"523",25,2009,"Sagrada Familia","RS",-28.341,-53.501,"corn",16,0.82,"Fusarium graminearum","15-ADON",2500
+"524",25,2009,"Sagrada Familia","RS",-28.39,-54.6,"corn",16,0.82,"Fusarium graminearum","15-ADON",2500
+"525",35,2010,"Sananduva","RS",-28.08892,-51.74372,"soybean",39,2.82,"Fusarium graminearum","15-ADON",3500
+"526",35,2010,"Sananduva","RS",-28.08892,-51.74372,"soybean",39,2.82,"Fusarium graminearum","15-ADON",3500
+"527",35,2010,"Sananduva","RS",-27.97308,-51.78419,"soybean",39,2.82,"Fusarium graminearum","15-ADON",3500
+"528",35,2010,"Sananduva","RS",-27.97308,-51.78419,"soybean",39,2.82,"Fusarium graminearum","15-ADON",3500
+"529",35,2010,"Sananduva","RS",-27.97308,-51.78419,"soybean",39,2.82,"Fusarium graminearum","15-ADON",3500
+"530",36,2010,"Sananduva","RS",-28.60075,-51.03706,"corn",22.5,0.32,"Fcor","NIV",3600
+"531",36,2010,"Sananduva","RS",-27.97308,-51.78419,"corn",22.5,0.32,"Fusarium graminearum","15-ADON",3600
+"532",36,2010,"Sananduva","RS",-28.41319,-53.10164,"corn",22.5,0.32,"Fusarium graminearum","15-ADON",3600
+"533",36,2010,"Sananduva","RS",-28.41319,-53.10164,"corn",22.5,0.32,"Fusarium graminearum","15-ADON",3600
+"534",36,2010,"Sananduva","RS",-28.41319,-53.10164,"corn",22.5,0.32,"Fusarium graminearum","15-ADON",3600
+"535",41,2011,"Sananduva","RS",-28.38442,-53.35019,"soybean",12.5,0.37,"Fusarium graminearum","15-ADON",4100
+"536",41,2011,"Sananduva","RS",-28.38442,-53.35019,"soybean",12.5,0.37,"Fusarium graminearum","15-ADON",4100
+"537",1,2009,"Santa Barbara do Sul","RS",-28.39,-54.6,"corn",52,2.98,"Fusarium graminearum","15-ADON",100
+"538",1,2009,"Santa Barbara do Sul","RS",-28.37,-51.092,"corn",52,2.98,"Fusarium meridionale","NIV",100
+"539",2,2009,"Santa Barbara do Sul","RS",-28.37,-51.092,"soybean",53.5,3.91,"Fusarium meridionale","NIV",200
+"540",3,2009,"Santa Barbara do Sul","RS",-28.39,-54.6,"soybean",30,1.19,"Fusarium graminearum","15-ADON",300
+"541",8,2010,"Santa Barbara do Sul","RS",-28.04308,-52.27006,"soybean",52.76,14.1,"Fusarium graminearum","15-ADON",800
+"542",8,2010,"Santa Barbara do Sul","RS",-28.04308,-52.27006,"soybean",52.76,14.1,"Fusarium graminearum","15-ADON",800
+"543",8,2010,"Santa Barbara do Sul","RS",-28.04308,-52.27006,"soybean",52.76,14.1,"Fusarium graminearum","15-ADON",800
+"544",9,2011,"Santa Barbara do Sul","RS",-28.38442,-53.35019,"soybean",1,0.15,"Fusarium graminearum","15-ADON",900
+"545",9,2011,"Santa Barbara do Sul","RS",-28.38442,-53.35019,"soybean",1,0.15,"Fusarium graminearum","15-ADON",900
+"546",9,2011,"Santa Barbara do Sul","RS",-28.38442,-53.35019,"soybean",1,0.15,"Fusarium graminearum","15-ADON",900
+"547",9,2011,"Santa Barbara do Sul","RS",-28.28686,-52.70706,"soybean",1,0.15,"Fusarium graminearum","15-ADON",900
+"548",9,2011,"Santa Barbara do Sul","RS",-28.28686,-52.70706,"soybean",1,0.15,"Fusarium graminearum","15-ADON",900
+"549",9,2011,"Santa Barbara do Sul","RS",-28.40511,-52.26956,"soybean",1,0.15,"Fusarium graminearum","15-ADON",900
+"550",51,2009,"Sao Miguel das Missoes","RS",-28.39,-54.6,"soybean",21.5,1.49,"Fusarium graminearum","15-ADON",5100
+"551",51,2009,"Sao Miguel das Missoes","RS",-28.39,-54.6,"soybean",21.5,1.49,"Fusarium graminearum","15-ADON",5100
+"552",51,2009,"Sao Miguel das Missoes","RS",-28.375,-54.1,"soybean",21.5,1.49,"Fusarium graminearum","15-ADON",5100
+"553",51,2009,"Sao Miguel das Missoes","RS",-28.375,-54.1,"soybean",21.5,1.49,"Fusarium graminearum","15-ADON",5100
+"554",51,2009,"Sao Miguel das Missoes","RS",-28.424,-53.926,"soybean",21.5,1.49,"Fusarium graminearum","15-ADON",5100
+"555",51,2009,"Sao Miguel das Missoes","RS",-28.28964,-51.97308,"soybean",21.5,1.49,"Fusarium meridionale","NIV",5100
+"556",NA,2009,"Sertaneja","PR",-23.03694444,-50.83833333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"557",NA,2009,"Sertaneja","PR",-23.03694444,-50.83833333,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"558",NA,2009,"Sertaneja","PR",-23.03694444,-50.83833333,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"559",NA,2009,"Sertanopolis","PR",-23.05861111,-51.03638889,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"560",NA,2009,"Sertanopolis","PR",-23.05861111,-51.03638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"561",NA,2009,"Sertanopolis","PR",-23.05861111,-51.03638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"562",NA,2009,"Sertanopolis","PR",-23.05861111,-51.03638889,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"563",12,2010,"Sertao","RS",-28.04308,-52.27006,"corn",57.5,3.03,"Fusarium graminearum","15-ADON",1200
+"564",12,2010,"Sertao","RS",-28.02719,-52.23219,"corn",57.5,3.03,"Fusarium graminearum","15-ADON",1200
+"565",12,2010,"Sertao","RS",-28.02719,-52.23219,"corn",57.5,3.03,"Fusarium graminearum","15-ADON",1200
+"566",12,2010,"Sertao","RS",-28.02719,-52.23219,"corn",57.5,3.03,"Fusarium graminearum","15-ADON",1200
+"567",12,2010,"Sertao","RS",-28.60075,-51.03706,"corn",57.5,3.03,"Fusarium meridionale","NIV",1200
+"568",13,2010,"Sertao","RS",-27.97553,-52.22631,"corn",56.5,4.11,"Fusarium graminearum","15-ADON",1300
+"569",13,2010,"Sertao","RS",-27.97553,-52.22631,"corn",56.5,4.11,"Fusarium graminearum","15-ADON",1300
+"570",13,2010,"Sertao","RS",-27.97553,-52.22631,"corn",56.5,4.11,"Fusarium graminearum","15-ADON",1300
+"571",14,2010,"Sertao","RS",-27.97553,-52.22631,"soybean",28.5,1.43,"Fusarium graminearum","15-ADON",1400
+"572",14,2010,"Sertao","RS",-27.97553,-52.22631,"soybean",28.5,1.43,"Fusarium graminearum","15-ADON",1400
+"573",14,2010,"Sertao","RS",-28.82419,-52.47372,"soybean",28.5,1.43,"Fusarium graminearum","15-ADON",1400
+"574",14,2010,"Sertao","RS",-28.82419,-52.47372,"soybean",28.5,1.43,"Fusarium graminearum","15-ADON",1400
+"575",14,2010,"Sertao","RS",-28.82419,-52.47372,"soybean",28.5,1.43,"Fusarium graminearum","15-ADON",1400
+"576",31,2011,"Sertao","RS",-28.06872,-51.99578,"soybean",29.5,0.97,"Fusarium graminearum","15-ADON",3100
+"577",31,2011,"Sertao","RS",-28.11081,-51.72869,"soybean",29.5,0.97,"Fusarium graminearum","15-ADON",3100
+"578",31,2011,"Sertao","RS",-28.20564,-53.47161,"soybean",29.5,0.97,"Fusarium meridionale","NIV",3100
+"579",32,2011,"Sertao","RS",-28.11081,-51.72869,"corn",31,1.64,"Fusarium graminearum","15-ADON",3200
+"580",29,2010,"Soledade","RS",-28.82419,-52.47372,"soybean",31,1.42,"Fusarium graminearum","15-ADON",2900
+"581",29,2010,"Soledade","RS",-28.82419,-52.47372,"soybean",31,1.42,"Fusarium graminearum","15-ADON",2900
+"582",29,2010,"Soledade","RS",-28.077,-52.058,"soybean",31,1.42,"Fusarium graminearum","15-ADON",2900
+"583",29,2010,"Soledade","RS",-28.077,-52.058,"soybean",31,1.42,"Fusarium graminearum","15-ADON",2900
+"584",29,2010,"Soledade","RS",-28.077,-52.058,"soybean",31,1.42,"Fusarium graminearum","15-ADON",2900
+"585",9,2010,"Tapejara","RS",-28.077,-52.058,"soybean",37.5,8.16,"Fusarium graminearum","15-ADON",900
+"586",9,2010,"Tapejara","RS",-28.077,-52.058,"soybean",37.5,8.16,"Fusarium graminearum","15-ADON",900
+"587",9,2010,"Tapejara","RS",-28.14967,-52.12636,"soybean",37.5,8.16,"Fusarium graminearum","15-ADON",900
+"588",9,2010,"Tapejara","RS",-28.14967,-52.12636,"soybean",37.5,8.16,"Fusarium graminearum","15-ADON",900
+"589",9,2010,"Tapejara","RS",-28.14967,-52.12636,"soybean",37.5,8.16,"Fusarium graminearum","15-ADON",900
+"590",20,2010,"Tapejara","RS",-28.14967,-52.12636,"corn",44,4.89,"Fusarium graminearum","15-ADON",2000
+"591",20,2010,"Tapejara","RS",-28.13561,-52.10883,"corn",44,4.89,"Fusarium graminearum","15-ADON",2000
+"592",20,2010,"Tapejara","RS",-28.13561,-52.10883,"corn",44,4.89,"Fusarium graminearum","15-ADON",2000
+"593",20,2010,"Tapejara","RS",-28.13561,-52.10883,"corn",44,4.89,"Fusarium graminearum","15-ADON",2000
+"594",21,2010,"Tapejara","RS",-28.13561,-52.10883,"corn",46.5,2.37,"Fusarium graminearum","15-ADON",2100
+"595",21,2010,"Tapejara","RS",-28.08597,-52.02053,"corn",46.5,2.37,"Fusarium graminearum","15-ADON",2100
+"596",21,2010,"Tapejara","RS",-28.08597,-52.02053,"corn",46.5,2.37,"Fusarium graminearum","15-ADON",2100
+"597",21,2010,"Tapejara","RS",-28.08597,-52.02053,"corn",46.5,2.37,"Fusarium graminearum","15-ADON",2100
+"598",22,2010,"Tapejara","RS",-28.08597,-52.02053,"soybean",25,2.05,"Fusarium graminearum","15-ADON",2200
+"599",22,2010,"Tapejara","RS",-28.35564,-51.11736,"soybean",25,2.05,"Fusarium graminearum","15-ADON",2200
+"600",22,2010,"Tapejara","RS",-28.35564,-51.11736,"soybean",25,2.05,"Fusarium graminearum","15-ADON",2200
+"601",22,2010,"Tapejara","RS",-28.35564,-51.11736,"soybean",25,2.05,"Fusarium graminearum","15-ADON",2200
+"602",22,2010,"Tapejara","RS",-28.60075,-51.03706,"soybean",25,2.05,"Fusarium meridionale","NIV",2200
+"603",46,2011,"Tapejara","RS",-28.62231,-52.74708,"soybean",8,1.43,"Fusarium graminearum","15-ADON",4600
+"604",46,2011,"Tapejara","RS",-28.53642,-52.57522,"soybean",8,1.43,"Fusarium graminearum","15-ADON",4600
+"605",46,2011,"Tapejara","RS",-28.53642,-52.57522,"soybean",8,1.43,"Fusarium graminearum","15-ADON",4600
+"606",51,2011,"Tapejara","RS",-28.11081,-51.72869,"soybean",9.5,0.85,"Fusarium graminearum","15-ADON",5100
+"607",25,2011,"Tapera","RS",-28.53642,-52.57522,"soybean",25.5,2.02,"Fusarium graminearum","15-ADON",2500
+"608",25,2011,"Tapera","RS",-28.37353,-54.12308,"soybean",25.5,2.02,"Fusarium meridionale","NIV",2500
+"609",23,2011,"Tio Hugo","RS",-28.53642,-52.57522,"soybean",8,0.25,"Fusarium graminearum","15-ADON",2300
+"610",23,2011,"Tio Hugo","RS",-28.38472,-51.54639,"soybean",8,0.25,"Fusarium graminearum","15-ADON",2300
+"611",23,2011,"Tio Hugo","RS",-28.52139,-51.07556,"soybean",8,0.25,"Fusarium graminearum","15-ADON",2300
+"612",23,2011,"Tio Hugo","RS",-28.655,-50.79139,"soybean",8,0.25,"Fusarium graminearum","15-ADON",2300
+"613",32,2009,"Tio Hugo","RS",-28.424,-53.926,"corn",54.58,7.93,"Fusarium graminearum","15-ADON",3200
+"614",32,2009,"Tio Hugo","RS",-28.37,-51.092,"corn",54.58,7.93,"Fusarium graminearum","15-ADON",3200
+"615",33,2009,"Tio Hugo","RS",-28.37,-51.092,"soybean",60.27,7.36,"Fusarium graminearum","15-ADON",3300
+"616",33,2009,"Tio Hugo","RS",-28.37,-51.092,"soybean",60.27,7.36,"Fusarium graminearum","15-ADON",3300
+"617",NA,2009,"Toledo","PR",-24.71361111,-53.74305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"618",NA,2009,"Toledo","PR",-24.71361111,-53.74305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"619",NA,2009,"Toledo","PR",-24.71361111,-53.74305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"620",NA,2009,"Toledo","PR",-24.71361111,-53.74305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"621",NA,2009,"Toledo","PR",-24.71361111,-53.74305556,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"622",NA,2009,"Tupassi","PR",-24.58777778,-53.595,NA,NA,NA,"Fusarium graminearum","15-ADON",NA
+"623",NA,2009,"Tupassi","PR",-24.58777778,-53.595,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"624",NA,2009,"Tupassi","PR",-24.58777778,-53.595,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"625",NA,2009,"Tupassi","PR",-24.58777778,-53.595,NA,NA,NA,"Fusarium meridionale","NIV",NA
+"626",42,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"627",42,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"628",42,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"629",42,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"630",42,2010,"Vacaria","RS",-28.39075,-51.05486,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"631",42,2010,"Vacaria","RS",-28.39075,-51.05486,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"632",42,2010,"Vacaria","RS",-28.39075,-51.05486,"corn",13,0.73,"Fusarium graminearum","15-ADON",4200
+"633",43,2010,"Vacaria","RS",-28.39075,-51.05486,"corn",30.5,2.09,"Fusarium graminearum","15-ADON",4300
+"634",43,2010,"Vacaria","RS",-28.39075,-51.05486,"corn",30.5,2.09,"Fusarium graminearum","15-ADON",4300
+"635",43,2010,"Vacaria","RS",-28.39075,-51.05486,"corn",30.5,2.09,"Fusarium graminearum","15-ADON",4300
+"636",43,2010,"Vacaria","RS",-28.42153,-51.03992,"corn",30.5,2.09,"Fusarium graminearum","15-ADON",4300
+"637",43,2010,"Vacaria","RS",-28.42153,-51.03992,"corn",30.5,2.09,"Fusarium graminearum","15-ADON",4300
+"638",43,2010,"Vacaria","RS",-28.42153,-51.03992,"corn",30.5,2.09,"Fusarium graminearum","15-ADON",4300
+"639",44,2010,"Vacaria","RS",-28.45236,-50.99744,"corn",14,0.63,"Fusarium graminearum","15-ADON",4400
+"640",44,2010,"Vacaria","RS",-28.60075,-51.03706,"corn",14,0.63,"Fusarium graminearum","15-ADON",4400
+"641",44,2010,"Vacaria","RS",-28.60075,-51.03706,"corn",14,0.63,"Fusarium graminearum","15-ADON",4400
+"642",45,2010,"Vacaria","RS",-28.60075,-51.03706,"corn",2,0.03,"Fusarium graminearum","15-ADON",4500
+"643",46,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",4,0.09,"Fcor","NIV",4600
+"644",46,2010,"Vacaria","RS",-28.63539,-51.08653,"corn",4,0.09,"Fusarium graminearum","15-ADON",4600
+"645",46,2010,"Vacaria","RS",-28.63539,-51.08653,"corn",4,0.09,"Fusarium graminearum","15-ADON",4600
+"646",46,2010,"Vacaria","RS",-28.63539,-51.08653,"corn",4,0.09,"Fusarium graminearum","15-ADON",4600
+"647",46,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",4,0.09,"Fusarium meridionale","NIV",4600
+"648",46,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",4,0.09,"Fusarium meridionale","NIV",4600
+"649",47,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",31,2.17,"Fusarium graminearum","15-ADON",4700
+"650",47,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",31,2.17,"Fusarium graminearum","15-ADON",4700
+"651",47,2010,"Vacaria","RS",-28.35564,-51.11736,"corn",31,2.17,"Fusarium graminearum","15-ADON",4700
+"652",50,2009,"Vacaria","RS",-28.67142,-51.13514,"corn",14,0.93,"Fcor","NIV",5000
+"653",50,2009,"Vacaria","RS",-28.30103,-51.46317,"corn",14,0.93,"Fcor","NIV",5000
+"654",50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"655",50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"656",50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"657",50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"658",50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"659",50,2009,"Vacaria","RS",-28.285,-52.704,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"660",50,2009,"Vacaria","RS",-28.319,-52.834,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"661",50,2009,"Vacaria","RS",-28.319,-52.834,"corn",14,0.93,"Fusarium graminearum","15-ADON",5000
+"662",54,2011,"Vacaria","RS",-28.30103,-51.46317,"soybean",9,0.29,"Fusarium graminearum","15-ADON",5400
+"663",56,2011,"Vacaria","RS",-28.26994,-51.92253,"corn",2.5,0.15,"Fcor","NIV",5600
+"664",57,2011,"Vacaria","RS",-28.31181,-52.80419,"corn",6.5,0.51,"Fusarium graminearum","15-ADON",5700
+"665",59,2011,"Vacaria","RS",-28.26644,-51.66858,"corn",1,0.05,"Fusarium graminearum","15-ADON",5900
+"666",24,2011,"Victor Graeff","RS",-28.37067,-52.98822,"soybean",18.5,0.58,"Fusarium graminearum","15-ADON",2400
+"667",24,2011,"Victor Graeff","RS",-28.37067,-52.98822,"soybean",18.5,0.58,"Fusarium graminearum","15-ADON",2400
+"668",30,2009,"Victor Graeff","RS",-28.319,-52.834,"corn",25,1.99,"Fusarium graminearum","15-ADON",3000
+"669",31,2009,"Victor Graeff","RS",-28.30617,-52.08281,"corn",44,4.89,"Fusarium graminearum","15-ADON",3100
+"670",31,2009,"Victor Graeff","RS",-28.30617,-52.08281,"corn",44,4.89,"Fusarium graminearum","15-ADON",3100
+"671",31,2009,"Victor Graeff","RS",-28.30617,-52.08281,"corn",44,4.89,"Fusarium graminearum","15-ADON",3100

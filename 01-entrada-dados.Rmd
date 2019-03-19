@@ -1,0 +1,88 @@
+
+
+<div align=justify>
+
+# Carregando os dados no ambiente
+
+Como rotina em uma análise de dados, um dos primeiros passos é criar, carregar ou importar o conjunto de dados no ambiente R. O formato mais comumente utilizado para o armazenamento de dados em várias colunas é o de data frame. Existem várias maneiras de se carregar os dados e criar data frames, dependendo do tamanho do conjunto e formato disponível. Muitas vezes, queremos apenas criar conjuntos de sequencias ou números, que pode ser feito com as funções básicas que já foram vistas, não necessitando carregar arquivo externo. Comumente, os dados são organizados em planilhas eletrônicas, as quais devem ser importadas para o ambiente. Na sequencia, serão apresentadas as formas mais comuns de ter os dados no R para análise.
+
+
+## Usando o argumento text
+
+Uma forma de carregar rapidamente dados no ambiente é por meio do argumento text. Você pode copiar (ctrl + c) os dados de uma planilha e colar (ctrl + v) conforme o exemplo abaixo, entre aspas, após o argumento text da função `read.table`. Cada coluna será definida uma vez que tenha espaço entre os elementos. Pode ser útil para criar conjuntos pequenos. Abaixo, um exemplo de criação do conjunto survey.
+
+```{r}
+survey <- read.table(h=T, text="
+campo  ano severidade
+25	2010 3
+25	2010 4
+25	2010 10
+25	2010 23
+25	2010 34
+26	2010 2
+26	2010 4
+26	2010 5
+")
+```
+
+Verificar a estrutura do conjunto criado com a função `str`. 
+
+`str(survey)`
+
+
+## Importando do excel
+
+Normalmente conjuntos de dados maiores são criados em planilhas eletrônicas e salvos em extensões do excel como xls ou xlsx. Há alguns pacotes que permitem importar arquivos do excel. Dentre as várias funções, destaca-se a `read_excel` do pacote readxl. 
+
+`??readxl`
+
+Vamos importar o arquivo fungicidewheat.xlsx e atribuir ao data frame wheat. Lembrando que deve-se incluir o caminho do arquivo, caso ele não se encontre no mesmo diretório onde está salvo o arquivo .r ou .rmd.
+
+
+```{r}
+library(readxl) # carrega o pacote no ambiente
+wheat <- read_excel("data/fungicidewheat.xlsx") # leitura com a função read_excel
+head (wheat)[ ,1:4] # mostra apenas as 4 primeiras colunas
+```
+
+## Dados em outros arquivos
+Muitos arquivos de dados estão disponíveis em formatos csv (*comma separated values*) ou txt (texto). Esses arquivos também podem ser salvos nesse formato, a partir de uma planilha eletrônica. Vamos utilizar a função `read_csv` do pacote readr.
+[Saber mais sobre o readr](http://blog.rstudio.org/2015/04/09/readr-0-1-0/)
+
+
+```{r}
+library(readr) # carrega o pacote
+wheat2 <- read_csv("data/fungicidewheat.csv") # importa o arquivo csv
+
+```
+
+
+
+## Dados em pacotes
+
+O R vem com muitos arquivos de dados que são carregados quando da inicialização do programa, bastando apenas entrar com o nome do arquivo ou atribuir os dados a um dataframe. A função `data()` mostra todos os arquivos de dados com uma breve descrição. Entre com o nome do arquivo para visualizá-lo. Vamos carregar o conjunto de dados `Orange`. Note que entrando com o nome do conjunto os dados ele não carrega no "Environment", mas apenas é mostrado. Veja a diferença abaixo.
+
+```{r}
+head(Orange) # apenas 6 primeiras linhas
+data(Orange) 
+```
+
+Pode-se atribuir o conjunto Orange a um determinado vetor. Vamos atribuir os dados na forma de um data fame com o nome laranja, assim ele ficará armazenado no ambiente.
+
+```{r}
+laranja <- data.frame(Orange) # usa o comando data.frame
+head(laranja)
+```
+
+## Dados de pacotes 
+
+Pacotes do R geralmente possuem arquivos de dados para demonstrar o uso das funções. Vamos carregar o pacote agricolae e visualizar o conjunto de dados com o nome `ralstonia`. 
+
+```{r}
+library(agricolae) 
+data(ralstonia) # o conjunto ralstonia foi carregado no ambiente
+```
+
+## Referências na web
+[DataCamp tutorial] (https://www.datacamp.com/community/tutorials/r-data-import-tutorial)
+

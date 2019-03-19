@@ -1,0 +1,672 @@
+"campo","ano","local","estado","lat","long","residuo","inc","sev","especie","index"
+25,2010,"Agua Santa","RS",-28.3062,-52.0828,"soybean",68.24,9.47,"Fgra",1
+25,2010,"Agua Santa","RS",-28.3062,-52.0828,"soybean",68.24,9.47,"Fgra",2
+25,2010,"Agua Santa","RS",-28.2896,-51.9731,"soybean",68.24,9.47,"Fgra",3
+25,2010,"Agua Santa","RS",-28.2896,-51.9731,"soybean",68.24,9.47,"Fgra",4
+25,2010,"Agua Santa","RS",-28.2896,-51.9731,"soybean",68.24,9.47,"Fgra",5
+26,2010,"Agua Santa","RS",-28.7216,-51.2442,"corn",34,3.73,"Fgra",6
+26,2010,"Agua Santa","RS",-28.7216,-51.2442,"corn",34,3.73,"Fgra",7
+26,2010,"Agua Santa","RS",-28.7216,-51.2442,"corn",34,3.73,"Fgra",8
+26,2010,"Agua Santa","RS",-28.301,-51.4632,"corn",34,3.73,"Fmer",9
+36,2011,"Agua Santa","RS",-28.3707,-52.9882,"soybean",40.5,1.31,"Fgra",10
+48,2010,"Antonio Prado","RS",-28.3348,-52.8807,"soybean",2,0.02,"Fcor",11
+49,2010,"Antonio Prado","RS",-28.7216,-51.2442,"corn",11,0.22,"Fgra",12
+49,2010,"Antonio Prado","RS",-28.301,-51.4632,"corn",11,0.22,"Fgra",13
+49,2010,"Antonio Prado","RS",-28.2736,-52.6821,"corn",11,0.22,"Fgra",14
+49,2010,"Antonio Prado","RS",-28.2736,-52.6821,"corn",11,0.22,"Fgra",15
+NA,2009,"Apucarana","PR",-23.5508,-51.0858,NA,NA,NA,"Fgra",16
+NA,2009,"Apucarana","PR",-23.5508,-51.0858,NA,NA,NA,"Fgra",17
+NA,2009,"Apucarana","PR",-23.5508,-51.0858,NA,NA,NA,"Fgra",18
+NA,2009,"Apucarana","PR",-23.5508,-51.0858,NA,NA,NA,"Fmer",19
+NA,2009,"Arapongas","PR",-23.4194,-51.4244,NA,NA,NA,"Fgra",20
+NA,2009,"Arapongas","PR",-23.4194,-51.4244,NA,NA,NA,"Fgra",21
+NA,2009,"Arapongas","PR",-23.4194,-51.4244,NA,NA,NA,"Fgra",22
+NA,2009,"Arapongas","PR",-23.4194,-51.4244,NA,NA,NA,"Fgra",23
+NA,2009,"Assis Chateaubriand","PR",-24.7989,-53.3067,NA,NA,NA,"Fmer",24
+NA,2009,"Assis Chateaubriand","PR",-24.7989,-53.3067,NA,NA,NA,"Fmer",25
+NA,2009,"Assis Chateaubriand","PR",-24.7989,-53.3067,NA,NA,NA,"Fmer",26
+NA,2009,"Assis Chateaubriand","PR",-24.7989,-53.3067,NA,NA,NA,"Fmer",27
+NA,2009,"Assis Chateaubriand","PR",-24.7989,-53.3067,NA,NA,NA,"Fmer",28
+38,2010,"Barreto","RS",-28.3216,-51.2374,"soybean",13,0.46,"Faus",29
+38,2010,"Barreto","RS",-28.2494,-51.8469,"soybean",13,0.46,"Fcor",30
+38,2010,"Barreto","RS",-28.2736,-52.6821,"soybean",13,0.46,"Fgra",31
+38,2010,"Barreto","RS",-28.2664,-51.6686,"soybean",13,0.46,"Fmer",32
+NA,2009,"Bela Vista do Paraiso","PR",-24.0997,-52.6233,NA,NA,NA,"Fmer",33
+21,2009,"Boa Vista das Missoes","RS",-28.53,-52.763,"corn",25.13,2.5,"Fgra",34
+21,2009,"Boa Vista das Missoes","RS",-28.53,-52.763,"corn",25.13,2.5,"Fgra",35
+21,2009,"Boa Vista das Missoes","RS",-28.53,-52.763,"corn",25.13,2.5,"Fgra",36
+22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fgra",37
+22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fgra",38
+22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fgra",39
+22,2009,"Boa Vista das Missoes","RS",-28.609,-52.75,"corn",61.81,7.19,"Fgra",40
+NA,2009,"Cambe","PR",-23.2758,-51.2783,NA,NA,NA,"Fgra",41
+NA,2009,"Cambe","PR",-23.2758,-51.2783,NA,NA,NA,"Fgra",42
+NA,2009,"Cambe","PR",-23.2758,-51.2783,NA,NA,NA,"Fgra",43
+NA,2009,"Cambe","PR",-23.2758,-51.2783,NA,NA,NA,"Fgra",44
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",45
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",46
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",47
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",48
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",49
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",50
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",51
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",52
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",53
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",54
+NA,2009,"Campo Mourao","PR",-24.0456,-52.3831,NA,NA,NA,"Fgra",55
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Faus",56
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",57
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",58
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",59
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",60
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",61
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",62
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",63
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",64
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",65
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",66
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",67
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",68
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",69
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",70
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",71
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",72
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",73
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",74
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",75
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",76
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fgra",77
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fmer",78
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fmer",79
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fmer",80
+NA,2011,"Cantagalo","PR",-25.3744,-52.1264,NA,NA,NA,"Fmer",81
+2,2010,"Carazinho","RS",-28.2736,-52.6821,"soybean",72.5,14.27,"Fgra",82
+2,2010,"Carazinho","RS",-28.3169,-52.7532,"soybean",72.5,14.27,"Fgra",83
+2,2010,"Carazinho","RS",-28.3169,-52.7532,"soybean",72.5,14.27,"Fgra",84
+2,2010,"Carazinho","RS",-28.3169,-52.7532,"soybean",72.5,14.27,"Fgra",85
+3,2010,"Carazinho","RS",-28.3169,-52.7532,"soybean",67,18.65,"Fgra",86
+3,2010,"Carazinho","RS",-28.3169,-52.7532,"soybean",67,18.65,"Fgra",87
+3,2010,"Carazinho","RS",-28.3118,-52.8042,"soybean",67,18.65,"Fgra",88
+3,2010,"Carazinho","RS",-28.3118,-52.8042,"soybean",67,18.65,"Fgra",89
+3,2010,"Carazinho","RS",-28.3118,-52.8042,"soybean",67,18.65,"Fgra",90
+4,2010,"Carazinho","RS",-28.3123,-51.3606,"soybean",43.5,17.48,"Fcor",91
+4,2010,"Carazinho","RS",-28.3118,-52.8042,"soybean",43.5,17.48,"Fgra",92
+4,2010,"Carazinho","RS",-28.336,-52.8453,"soybean",43.5,17.48,"Fgra",93
+4,2010,"Carazinho","RS",-28.336,-52.8453,"soybean",43.5,17.48,"Fgra",94
+4,2010,"Carazinho","RS",-28.336,-52.8453,"soybean",43.5,17.48,"Fgra",95
+5,2010,"Carazinho","RS",-28.3348,-52.8807,"soybean",26,6.1,"Fgra",96
+5,2010,"Carazinho","RS",-28.3348,-52.8807,"soybean",26,6.1,"Fgra",97
+5,2010,"Carazinho","RS",-28.3348,-52.8807,"soybean",26,6.1,"Fgra",98
+5,2010,"Carazinho","RS",-28.4215,-51.0399,"soybean",26,6.1,"Fgra",99
+6,2010,"Carazinho","RS",-28.2664,-51.6686,"soybean",70.71,8.13,"Fasi",100
+6,2010,"Carazinho","RS",-28.3348,-52.8807,"soybean",70.71,8.13,"Fgra",101
+6,2010,"Carazinho","RS",-28.3504,-52.9476,"soybean",70.71,8.13,"Fgra",102
+6,2010,"Carazinho","RS",-28.3504,-52.9476,"soybean",70.71,8.13,"Fgra",103
+6,2010,"Carazinho","RS",-28.3504,-52.9476,"soybean",70.71,8.13,"Fgra",104
+7,2010,"Carazinho","RS",-28.3504,-52.9476,"soybean",35,8.02,"Fgra",105
+7,2010,"Carazinho","RS",-28.3504,-52.9476,"soybean",35,8.02,"Fgra",106
+7,2010,"Carazinho","RS",-28.2494,-51.8469,"soybean",35,8.02,"Fgra",107
+7,2010,"Carazinho","RS",-28.2494,-51.8469,"soybean",35,8.02,"Fgra",108
+7,2010,"Carazinho","RS",-28.2479,-51.784,"soybean",35,8.02,"Fgra",109
+19,2011,"Carazinho","RS",-28.3424,-52.9209,"corn",9,0.23,"Fgra",110
+19,2011,"Carazinho","RS",-28.4862,-52.8144,"corn",9,0.23,"Fgra",111
+19,2011,"Carazinho","RS",-28.4862,-52.8144,"corn",9,0.23,"Fgra",112
+20,2011,"Carazinho","RS",-28.4024,-53.0779,"soybean",28.5,1.43,"Fgra",113
+26,2009,"Carazinho","RS",-28.147,-52.301,"corn",21.11,1.19,"Fgra",114
+26,2009,"Carazinho","RS",-28.147,-52.301,"corn",21.11,1.19,"Fgra",115
+26,2009,"Carazinho","RS",-28.147,-52.301,"corn",21.11,1.19,"Fgra",116
+28,2011,"Carazinho","RS",-28.2056,-53.4716,"soybean",28.5,1.94,"Fgra",117
+28,2011,"Carazinho","RS",-28.4028,-53.9524,"soybean",28.5,1.94,"Fgra",118
+42,2009,"Carazinho","RS",-28.248,-51.822,"corn",3,0.12,"Fgra",119
+42,2009,"Carazinho","RS",-28.248,-51.822,"corn",3,0.12,"Fgra",120
+42,2009,"Carazinho","RS",-28.248,-51.822,"corn",3,0.12,"Fgra",121
+43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fgra",122
+43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fgra",123
+43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fgra",124
+43,2009,"Carazinho","RS",-28.26,-51.701,"soybean",24,1.27,"Fgra",125
+NA,2009,"Cascavel","PR",-24.9558,-53.4553,NA,NA,NA,"Fgra",126
+NA,2009,"Cascavel","PR",-24.9558,-53.4553,NA,NA,NA,"Fgra",127
+NA,2009,"Cascavel","PR",-24.9558,-53.4553,NA,NA,NA,"Fgra",128
+NA,2009,"Cascavel","PR",-24.9558,-53.4553,NA,NA,NA,"Fgra",129
+NA,2009,"Cascavel","PR",-24.9558,-53.4553,NA,NA,NA,"Fgra",130
+30,2010,"Caseiros","RS",-28.2479,-51.784,"corn",37,3.27,"Fgra",131
+30,2010,"Caseiros","RS",-28.2479,-51.784,"corn",37,3.27,"Fgra",132
+30,2010,"Caseiros","RS",-27.7007,-52.2854,"corn",37,3.27,"Fmer",133
+31,2010,"Caseiros","RS",-28.2479,-51.784,"soybean",24.5,2.11,"Fgra",134
+31,2010,"Caseiros","RS",-28.2479,-51.784,"soybean",24.5,2.11,"Fgra",135
+31,2010,"Caseiros","RS",-28.2664,-51.6686,"soybean",24.5,2.11,"Fgra",136
+31,2010,"Caseiros","RS",-28.2664,-51.6686,"soybean",24.5,2.11,"Fgra",137
+31,2010,"Caseiros","RS",-28.1728,-52.3174,"soybean",24.5,2.11,"Fgra",138
+32,2010,"Caseiros","RS",-28.3216,-51.2374,"corn",20,1.67,"Faus",139
+32,2010,"Caseiros","RS",-28.1728,-52.3174,"corn",20,1.67,"Fgra",140
+32,2010,"Caseiros","RS",-28.1728,-52.3174,"corn",20,1.67,"Fgra",141
+32,2010,"Caseiros","RS",-28.1426,-51.6983,"corn",20,1.67,"Fmer",142
+32,2010,"Caseiros","RS",-28.1426,-51.6983,"corn",20,1.67,"Fmer",143
+18,2011,"Colorado","RS",-28.4232,-53.9112,"soybean",17,0.61,"Fgra",144
+12,2009,"Condor","RS",-27.764,-53.32,"corn",44,2.24,"Fgra",145
+12,2009,"Condor","RS",-27.764,-53.32,"corn",44,2.24,"Fgra",146
+13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fgra",147
+13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fgra",148
+13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fgra",149
+13,2009,"Condor","RS",-27.642,-53.327,"soybean",70.5,12.81,"Fgra",150
+13,2011,"Condor","RS",-28.5219,-53.7931,"soybean",15,0.35,"Fgra",151
+14,2009,"Condor","RS",-27.722,-53.239,"soybean",55,6.24,"Fgra",152
+14,2009,"Condor","RS",-27.722,-53.239,"soybean",55,6.24,"Fgra",153
+NA,2009,"Corbelia","PR",-24.2928,-53.3125,NA,NA,NA,"Fmer",154
+NA,2009,"Corbelia","PR",-24.2928,-53.3125,NA,NA,NA,"Fmer",155
+NA,2009,"Cornelio Procopio","PR",-23.1811,-50.6467,NA,NA,NA,"Fgra",156
+NA,2009,"Cornelio Procopio","PR",-23.1811,-50.6467,NA,NA,NA,"Fgra",157
+NA,2009,"Cornelio Procopio","PR",-23.1811,-50.6467,NA,NA,NA,"Fgra",158
+NA,2009,"Cornelio Procopio","PR",-23.1811,-50.6467,NA,NA,NA,"Fgra",159
+NA,2009,"Cornelio Procopio","PR",-23.1811,-50.6467,NA,NA,NA,"Fgra",160
+44,2009,"Coronel Barros","RS",-28.218,-51.579,"corn",8,0.37,"Fgra",161
+44,2009,"Coronel Barros","RS",-28.218,-51.579,"corn",8,0.37,"Fgra",162
+44,2009,"Coronel Barros","RS",-28.218,-51.579,"corn",8,0.37,"Fgra",163
+45,2009,"Coronel Barros","RS",-28.218,-51.509,"soybean",29.5,3.66,"Fgra",164
+45,2009,"Coronel Barros","RS",-28.218,-51.509,"soybean",29.5,3.66,"Fgra",165
+45,2009,"Coronel Barros","RS",-28.218,-51.509,"soybean",29.5,3.66,"Fgra",166
+46,2009,"Coronel Barros","RS",-28.276,-51.467,"soybean",10,0.38,"Fgra",167
+10,2010,"Coxilha","RS",-28.1728,-52.3174,"soybean",63.5,13.31,"Fgra",168
+10,2010,"Coxilha","RS",-28.1728,-52.3174,"soybean",63.5,13.31,"Fgra",169
+10,2010,"Coxilha","RS",-28.1044,-52.2759,"soybean",63.5,13.31,"Fgra",170
+10,2010,"Coxilha","RS",-28.1044,-52.2759,"soybean",63.5,13.31,"Fgra",171
+10,2010,"Coxilha","RS",-28.1044,-52.2759,"soybean",63.5,13.31,"Fgra",172
+11,2010,"Coxilha","RS",-28.1044,-52.2759,"soybean",44.5,4.99,"Fgra",173
+11,2010,"Coxilha","RS",-28.1044,-52.2759,"soybean",44.5,4.99,"Fgra",174
+11,2010,"Coxilha","RS",-28.1318,-52.2664,"soybean",44.5,4.99,"Fgra",175
+11,2010,"Coxilha","RS",-28.1318,-52.2664,"soybean",44.5,4.99,"Fgra",176
+11,2010,"Coxilha","RS",-28.1318,-52.2664,"soybean",44.5,4.99,"Fgra",177
+18,2010,"Coxilha","RS",-28.1318,-52.2664,"soybean",65.5,3.95,"Fgra",178
+18,2010,"Coxilha","RS",-28.1318,-52.2664,"soybean",65.5,3.95,"Fgra",179
+18,2010,"Coxilha","RS",-28.1379,-52.2168,"soybean",65.5,3.95,"Fgra",180
+18,2010,"Coxilha","RS",-28.1379,-52.2168,"soybean",65.5,3.95,"Fgra",181
+18,2010,"Coxilha","RS",-28.1379,-52.2168,"soybean",65.5,3.95,"Fgra",182
+19,2010,"Coxilha","RS",-27.7834,-52.2654,"soybean",65,6.22,"Fgra",183
+19,2010,"Coxilha","RS",-27.7834,-52.2654,"soybean",65,6.22,"Fgra",184
+19,2010,"Coxilha","RS",-27.7834,-52.2654,"soybean",65,6.22,"Fgra",185
+37,2009,"Coxilha","RS",-28.267,-52.206,NA,0,0,"Fgra",186
+37,2009,"Coxilha","RS",-28.267,-52.206,NA,0,0,"Fgra",187
+37,2009,"Coxilha","RS",-28.267,-52.206,NA,0,0,"Fgra",188
+38,2009,"Coxilha","RS",-28.306,-52.135,"corn",5,0.31,"Fgra",189
+38,2009,"Coxilha","RS",-28.306,-52.135,"corn",5,0.31,"Fgra",190
+38,2009,"Coxilha","RS",-28.306,-52.135,"corn",5,0.31,"Fgra",191
+39,2009,"Coxilha","RS",-28.446,-53.531,"soybean",6,0.33,"Fgra",192
+39,2009,"Coxilha","RS",-28.446,-53.531,"soybean",6,0.33,"Fgra",193
+39,2009,"Coxilha","RS",-28.446,-53.531,"soybean",6,0.33,"Fgra",194
+39,2009,"Coxilha","RS",-28.825,-53.613,"soybean",6,0.33,"Fmer",195
+7,2009,"Cruz Alta","RS",-28.171,-53.472,"soybean",31.5,2.53,"Fgra",196
+7,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",31.5,2.53,"Fgra",197
+7,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",31.5,2.53,"Fgra",198
+8,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",50.5,4.83,"Fgra",199
+9,2009,"Cruz Alta","RS",-28.119,-53.433,"soybean",56,3.22,"Fgra",200
+9,2009,"Cruz Alta","RS",-28.027,-53.357,"soybean",56,3.22,"Fgra",201
+9,2009,"Cruz Alta","RS",-28.027,-53.357,"soybean",56,3.22,"Fgra",202
+9,2009,"Cruz Alta","RS",-28.027,-53.357,"soybean",56,3.22,"Fgra",203
+10,2009,"Cruz Alta","RS",-28.344,-51.147,"soybean",43,3.2,"Fgra",204
+10,2009,"Cruz Alta","RS",-28.344,-51.147,"soybean",43,3.2,"Fgra",205
+10,2009,"Cruz Alta","RS",-28.344,-51.147,"soybean",43,3.2,"Fgra",206
+49,2009,"Entre-Ijuis","RS",-28.344,-51.147,"corn",26.5,1.46,"Fgra",207
+49,2009,"Entre-Ijuis","RS",-28.358,-54.21,"corn",26.5,1.46,"Fgra",208
+49,2009,"Entre-Ijuis","RS",-28.358,-54.21,"corn",26.5,1.46,"Fgra",209
+49,2009,"Entre-Ijuis","RS",-28.39,-53.982,"corn",26.5,1.46,"Fgra",210
+16,2010,"Erechim","RS",-27.7834,-52.2654,"soybean",39,4.23,"Fgra",211
+16,2010,"Erechim","RS",-27.7007,-52.2854,"soybean",39,4.23,"Fgra",212
+16,2010,"Erechim","RS",-27.7007,-52.2854,"soybean",39,4.23,"Fgra",213
+16,2010,"Erechim","RS",-27.7007,-52.2854,"soybean",39,4.23,"Fgra",214
+17,2010,"Erechim","RS",-28.1426,-51.6983,"soybean",26,1.1,"Fcor",215
+17,2010,"Erechim","RS",-27.7007,-52.2854,"soybean",26,1.1,"Fgra",216
+17,2010,"Erechim","RS",-27.9162,-52.2321,"soybean",26,1.1,"Fgra",217
+17,2010,"Erechim","RS",-27.9162,-52.2321,"soybean",26,1.1,"Fgra",218
+17,2010,"Erechim","RS",-27.9162,-52.2321,"soybean",26,1.1,"Fgra",219
+34,2009,"Ernestina","RS",-28.381,-53.306,"soybean",27.22,2.65,"Fmer",220
+35,2009,"Ernestina","RS",-28.39,-53.982,"soybean",19.74,2.64,"Fgra",221
+35,2009,"Ernestina","RS",-28.39,-53.982,"soybean",19.74,2.64,"Fgra",222
+36,2009,"Ernestina","RS",-28.39,-53.982,"soybean",23.5,6.34,"Fgra",223
+36,2009,"Ernestina","RS",-28.293,-51.409,"soybean",23.5,6.34,"Fgra",224
+36,2009,"Ernestina","RS",-28.293,-51.409,"soybean",23.5,6.34,"Fgra",225
+36,2009,"Ernestina","RS",-28.327,-51.271,"soybean",23.5,6.34,"Fgra",226
+15,2010,"Estacao","RS",-27.9162,-52.2321,"soybean",42,1.63,"Fgra",227
+15,2010,"Estacao","RS",-27.9162,-52.2321,"soybean",42,1.63,"Fgra",228
+15,2010,"Estacao","RS",-28.1426,-51.6983,"soybean",42,1.63,"Fgra",229
+15,2010,"Estacao","RS",-28.1426,-51.6983,"soybean",42,1.63,"Fgra",230
+15,2010,"Estacao","RS",-28.1786,-51.6491,"soybean",42,1.63,"Fmer",231
+NA,2009,"Farol","PR",-24.0997,-52.6233,NA,NA,NA,"Fgra",232
+NA,2009,"Farol","PR",-24.0997,-52.6233,NA,NA,NA,"Fmer",233
+NA,2009,"Formosa do Oeste","PR",-24.2928,-53.3125,NA,NA,NA,"Fgra",234
+NA,2009,"Formosa do Oeste","PR",-24.2928,-53.3125,NA,NA,NA,"Fgra",235
+NA,2009,"Formosa do Oeste","PR",-24.2928,-53.3125,NA,NA,NA,"Fgra",236
+NA,2009,"Formosa do Oeste","PR",-24.2928,-53.3125,NA,NA,NA,"Fmer",237
+34,2010,"Ibiaca","RS",-28.3123,-51.3606,"corn",6,0.47,"Fcor",238
+34,2010,"Ibiaca","RS",-28.1786,-51.6491,"corn",6,0.47,"Fgra",239
+34,2010,"Ibiaca","RS",-28.1786,-51.6491,"corn",6,0.47,"Fgra",240
+34,2010,"Ibiaca","RS",-28.3123,-51.3606,"corn",6,0.47,"Fmer",241
+34,2010,"Ibiaca","RS",-28.2704,-51.9227,"corn",6,0.47,"Fmer",242
+1,2011,"Ijui","RS",-28.3646,-53.7911,"soybean",37,1.16,"Fgra",243
+1,2011,"Ijui","RS",-28.3799,-52.7892,"soybean",37,1.16,"Fmer",244
+1,2011,"Ijui","RS",-28.068,-53.3935,"soybean",37,1.16,"Fmer",245
+2,2011,"Ijui","RS",-28.4605,-53.8644,"soybean",2.5,0.07,"Fgra",246
+2,2011,"Ijui","RS",-28.3831,-54.0385,"soybean",2.5,0.07,"Fgra",247
+2,2011,"Ijui","RS",-28.3831,-54.0385,"soybean",2.5,0.07,"Fgra",248
+2,2011,"Ijui","RS",-28.0705,-51.9164,"soybean",2.5,0.07,"Fgra",249
+4,2011,"Ijui","RS",-28.4232,-53.9112,"soybean",7,0.16,"Fgra",250
+4,2011,"Ijui","RS",-28.4232,-53.9112,"soybean",7,0.16,"Fgra",251
+4,2011,"Ijui","RS",-28.4232,-53.9112,"soybean",7,0.16,"Fgra",252
+4,2011,"Ijui","RS",-28.3733,-53.8399,"soybean",7,0.16,"Fgra",253
+5,2011,"Ijui","RS",-28.4605,-53.8644,"soybean",14,0.35,"Fgra",254
+5,2011,"Ijui","RS",-28.4605,-53.8644,"soybean",14,0.35,"Fgra",255
+5,2011,"Ijui","RS",-28.0705,-51.9164,"soybean",14,0.35,"Fgra",256
+6,2011,"Ijui","RS",-28.3733,-53.8399,"soybean",8,0.35,"Fgra",257
+6,2011,"Ijui","RS",-28.0705,-51.9164,"soybean",8,0.35,"Fgra",258
+7,2011,"Ijui","RS",-28.3733,-53.8399,"soybean",2,0.03,"Fgra",259
+7,2011,"Ijui","RS",-28.3831,-54.0385,"soybean",2,0.03,"Fgra",260
+7,2011,"Ijui","RS",-28.3646,-53.7911,"soybean",2,0.03,"Fgra",261
+7,2011,"Ijui","RS",-28.2869,-52.7071,"soybean",2,0.03,"Fmer",262
+8,2011,"Ijui","RS",-28.4028,-53.9524,"soybean",8.5,1.29,"Fasi",263
+8,2011,"Ijui","RS",-28.3733,-53.8399,"soybean",8.5,1.29,"Fasi",264
+8,2011,"Ijui","RS",-28.3646,-53.7911,"soybean",8.5,1.29,"Fgra",265
+8,2011,"Ijui","RS",-28.3831,-54.0385,"soybean",8.5,1.29,"Fgra",266
+8,2011,"Ijui","RS",-28.5219,-53.7931,"soybean",8.5,1.29,"Fgra",267
+47,2009,"Ijui","RS",-28.327,-51.271,"corn",21.5,0.93,"Fgra",268
+47,2009,"Ijui","RS",-28.587,-52.627,"corn",21.5,0.93,"Fgra",269
+48,2009,"Ijui","RS",-28.587,-52.627,"soybean",5,0.55,"Fgra",270
+48,2009,"Ijui","RS",-28.491,-52.561,"soybean",5,0.55,"Fgra",271
+NA,2009,"Janiopolis","PR",-24.1419,-52.7817,NA,NA,NA,"Fgra",272
+NA,2009,"Janiopolis","PR",-24.1419,-52.7817,NA,NA,NA,"Fgra",273
+NA,2009,"Janiopolis","PR",-24.1419,-52.7817,NA,NA,NA,"Fgra",274
+NA,2009,"Jataizinho","PR",-23.2542,-50.98,NA,NA,NA,"Fgra",275
+NA,2009,"Jataizinho","PR",-23.2542,-50.98,NA,NA,NA,"Fgra",276
+NA,2009,"Jataizinho","PR",-23.2542,-50.98,NA,NA,NA,"Fgra",277
+NA,2009,"Jataizinho","PR",-23.2542,-50.98,NA,NA,NA,"Fgra",278
+NA,2009,"Jataizinho","PR",-23.2542,-50.98,NA,NA,NA,"Fgra",279
+NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fgra",280
+NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fgra",281
+NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fgra",282
+NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fgra",283
+NA,2009,"Jesuitas","PR",-24.385,-53.3875,NA,NA,NA,"Fgra",284
+NA,2009,"Juranda","PR",-24.4203,-52.8431,NA,NA,NA,"Fgra",285
+NA,2009,"Juranda","PR",-24.4203,-52.8431,NA,NA,NA,"Fgra",286
+NA,2009,"Juranda","PR",-24.4203,-52.8431,NA,NA,NA,"Fmer",287
+NA,2009,"Juranda","PR",-24.4203,-52.8431,NA,NA,NA,"Fmer",288
+NA,2009,"Juranda","PR",-24.4203,-52.8431,NA,NA,NA,"Fmer",289
+23,2009,"Lageado do Bugre","RS",-28.491,-52.561,"soybean",25.5,2.22,"Fgra",290
+23,2009,"Lageado do Bugre","RS",-28.137,-52.207,"soybean",25.5,2.22,"Fgra",291
+24,2009,"Lageado do Bugre","RS",-28.137,-52.207,"soybean",71,5.22,"Fgra",292
+24,2009,"Lageado do Bugre","RS",-28.137,-52.207,"soybean",71,5.22,"Fgra",293
+33,2010,"Lagoa Vermelha","RS",-28.1786,-51.6491,"corn",41.5,1.08,"Fgra",294
+33,2010,"Lagoa Vermelha","RS",-28.1786,-51.6491,"corn",41.5,1.08,"Fgra",295
+33,2010,"Lagoa Vermelha","RS",-28.1786,-51.6491,"corn",41.5,1.08,"Fgra",296
+33,2010,"Lagoa Vermelha","RS",-28.2235,-51.501,"corn",41.5,1.08,"Fgra",297
+33,2010,"Lagoa Vermelha","RS",-28.2235,-51.501,"corn",41.5,1.08,"Fgra",298
+33,2010,"Lagoa Vermelha","RS",-28.2235,-51.501,"corn",41.5,1.08,"Fgra",299
+37,2010,"Lagoa Vermelha","RS",-28.2235,-51.501,"soybean",25.5,0.34,"Fgra",300
+37,2010,"Lagoa Vermelha","RS",-28.3123,-51.3606,"soybean",25.5,0.34,"Fgra",301
+37,2010,"Lagoa Vermelha","RS",-28.3123,-51.3606,"soybean",25.5,0.34,"Fgra",302
+37,2010,"Lagoa Vermelha","RS",-28.3338,-51.3002,"soybean",25.5,0.34,"Fgra",303
+39,2010,"Lagoa Vermelha","RS",-28.1786,-51.6491,"soybean",25.5,0.9,"Fcor",304
+39,2010,"Lagoa Vermelha","RS",-28.2704,-51.9227,"soybean",25.5,0.9,"Fcor",305
+39,2010,"Lagoa Vermelha","RS",-27.9731,-51.7842,"soybean",25.5,0.9,"Fcor",306
+39,2010,"Lagoa Vermelha","RS",-28.3338,-51.3002,"soybean",25.5,0.9,"Fgra",307
+39,2010,"Lagoa Vermelha","RS",-28.3338,-51.3002,"soybean",25.5,0.9,"Fgra",308
+40,2010,"Lagoa Vermelha","RS",-28.3338,-51.3002,"corn",11.5,0.74,"Fgra",309
+40,2010,"Lagoa Vermelha","RS",-28.3338,-51.3002,"corn",11.5,0.74,"Fgra",310
+40,2010,"Lagoa Vermelha","RS",-28.3216,-51.2374,"corn",11.5,0.74,"Fgra",311
+40,2010,"Lagoa Vermelha","RS",-28.3216,-51.2374,"corn",11.5,0.74,"Fgra",312
+40,2010,"Lagoa Vermelha","RS",-28.3216,-51.2374,"corn",11.5,0.74,"Fgra",313
+41,2010,"Lagoa Vermelha","RS",-28.1786,-51.6491,"corn",12,0.32,"Faus",314
+41,2010,"Lagoa Vermelha","RS",-28.1786,-51.6491,"corn",12,0.32,"Fcor",315
+41,2010,"Lagoa Vermelha","RS",-28.2704,-51.9227,"corn",12,0.32,"Fgra",316
+41,2010,"Lagoa Vermelha","RS",-28.2704,-51.9227,"corn",12,0.32,"Fgra",317
+41,2010,"Lagoa Vermelha","RS",-28.2704,-51.9227,"corn",12,0.32,"Fgra",318
+50,2011,"Lagoa Vermelha","RS",-28.0705,-51.9164,"soybean",16,0.65,"Fgra",319
+50,2011,"Lagoa Vermelha","RS",-28.3799,-52.7892,"soybean",16,0.65,"Fgra",320
+50,2011,"Lagoa Vermelha","RS",-28.3799,-52.7892,"soybean",16,0.65,"Fgra",321
+50,2011,"Lagoa Vermelha","RS",-28.2645,-52.2111,"soybean",16,0.65,"Fgra",322
+NA,2009,"Mambore","PR",-24.3219,-52.53,NA,NA,NA,"Fgra",323
+NA,2009,"Mambore","PR",-24.3219,-52.53,NA,NA,NA,"Fgra",324
+NA,2009,"Mambore","PR",-24.3219,-52.53,NA,NA,NA,"Fgra",325
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",326
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",327
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",328
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",329
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",330
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",331
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",332
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",333
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",334
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",335
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fgra",336
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",337
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",338
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",339
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",340
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",341
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",342
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",343
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",344
+NA,2011,"Manoel Ribas","PR",-24.5164,-51.6678,NA,NA,NA,"Fmer",345
+29,2011,"Marau","RS",-28.6409,-52.8509,"soybean",59.5,5.04,"Fgra",346
+29,2011,"Marau","RS",-28.6409,-52.8509,"soybean",59.5,5.04,"Fgra",347
+29,2011,"Marau","RS",-28.6223,-52.7471,"soybean",59.5,5.04,"Fmer",348
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",349
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",350
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",351
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",352
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",353
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",354
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",355
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",356
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",357
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",358
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",359
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",360
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",361
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",362
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",363
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",364
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fgra",365
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fmer",366
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fmer",367
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fmer",368
+NA,2009,"Maringa","PR",-23.4253,-51.9386,NA,NA,NA,"Fmer",369
+27,2010,"Mato Castelhano","RS",-28.0431,-52.2701,"corn",50,1.06,"Fcor",370
+27,2010,"Mato Castelhano","RS",-28.2113,-52.3554,"corn",50,1.06,"Fgra",371
+27,2010,"Mato Castelhano","RS",-28.2113,-52.3554,"corn",50,1.06,"Fgra",372
+27,2010,"Mato Castelhano","RS",-28.2113,-52.3554,"corn",50,1.06,"Fgra",373
+27,2010,"Mato Castelhano","RS",-28.086,-52.0205,"corn",50,1.06,"Fmer",374
+38,2011,"Mato Castelhano","RS",-28.6409,-52.8509,"soybean",14.5,1.54,"Fgra",375
+26,2011,"Nao-me-Toque","RS",-28.6409,-52.8509,"corn",5.5,0.38,"Fgra",376
+26,2011,"Nao-me-Toque","RS",-28.6023,-52.8626,"corn",5.5,0.38,"Fgra",377
+26,2011,"Nao-me-Toque","RS",-28.6409,-52.8509,"corn",5.5,0.38,"Fgra",378
+26,2011,"Nao-me-Toque","RS",-28.6409,-52.8509,"corn",5.5,0.38,"Fgra",379
+26,2011,"Nao-me-Toque","RS",-28.3412,-53.5017,"corn",5.5,0.38,"Fgra",380
+26,2011,"Nao-me-Toque","RS",-28.3889,-53.2587,"corn",5.5,0.38,"Fgra",381
+27,2009,"Nao-me-Toque","RS",-28.146,-52.418,"corn",6,0.31,"Fgra",382
+27,2009,"Nao-me-Toque","RS",-28.245,-52.572,"corn",6,0.31,"Fgra",383
+27,2009,"Nao-me-Toque","RS",-28.245,-52.572,"corn",6,0.31,"Fgra",384
+27,2011,"Nao-me-Toque","RS",-28.1342,-53.4445,"soybean",36.5,2.57,"Fgra",385
+28,2009,"Nao-me-Toque","RS",-28.245,-52.572,"soybean",24.34,1.24,"Fgra",386
+29,2009,"Nao-me-Toque","RS",-27.734,-53.168,"soybean",17.89,0.26,"Fgra",387
+29,2009,"Nao-me-Toque","RS",-27.734,-53.168,"soybean",17.89,0.26,"Fgra",388
+29,2009,"Nao-me-Toque","RS",-27.734,-53.168,"soybean",17.89,0.26,"Fgra",389
+14,2011,"Palmeira das Missoes","RS",-28.3412,-53.5017,"soybean",5.5,0.76,"Fgra",390
+15,2009,"Palmeira das Missoes","RS",-27.849,-53.365,"corn",89.95,18.51,"Fgra",391
+15,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"corn",89.95,18.51,"Fgra",392
+15,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"corn",89.95,18.51,"Fgra",393
+16,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"corn",52.5,4.53,"Fgra",394
+17,2009,"Palmeira das Missoes","RS",-27.807,-53.419,"soybean",41.5,1.78,"Fgra",395
+17,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",41.5,1.78,"Fgra",396
+17,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",41.5,1.78,"Fgra",397
+17,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",41.5,1.78,"Fgra",398
+18,2009,"Palmeira das Missoes","RS",-27.761,-53.496,"soybean",56.5,6.2,"Fgra",399
+18,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",56.5,6.2,"Fgra",400
+18,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",56.5,6.2,"Fgra",401
+18,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",56.5,6.2,"Fgra",402
+19,2009,"Palmeira das Missoes","RS",-28.359,-52.774,"soybean",53.85,4.43,"Fgra",403
+19,2009,"Palmeira das Missoes","RS",-28.443,-52.81,"soybean",53.85,4.43,"Fgra",404
+19,2009,"Palmeira das Missoes","RS",-28.443,-52.81,"soybean",53.85,4.43,"Fgra",405
+19,2009,"Palmeira das Missoes","RS",-28.443,-52.81,"soybean",53.85,4.43,"Fgra",406
+20,2009,"Palmeira das Missoes","RS",-28.566,-53.562,"corn",52.53,4.05,"Fgra",407
+20,2009,"Palmeira das Missoes","RS",-28.566,-53.562,"corn",52.53,4.05,"Fgra",408
+20,2009,"Palmeira das Missoes","RS",-28.825,-53.613,"corn",52.53,4.05,"Fgra",409
+20,2009,"Palmeira das Missoes","RS",-28.366,-53.421,"corn",52.53,4.05,"Fmer",410
+4,2009,"Panambi","RS",-28.825,-53.613,"soybean",42,3.25,"Fgra",411
+4,2009,"Panambi","RS",-28.825,-53.613,"soybean",42,3.25,"Fgra",412
+5,2009,"Panambi","RS",-28.39,-54.6,"soybean",35,2.12,"Fcor",413
+5,2009,"Panambi","RS",-28.825,-53.613,"soybean",35,2.12,"Fgra",414
+5,2009,"Panambi","RS",-28.6,-53.574,"soybean",35,2.12,"Fgra",415
+5,2009,"Panambi","RS",-28.301,-52.016,"soybean",35,2.12,"Fgra",416
+5,2009,"Panambi","RS",-28.301,-52.016,"soybean",35,2.12,"Fgra",417
+6,2009,"Panambi","RS",-28.266,-51.919,"soybean",36.5,1.26,"Fgra",418
+11,2011,"Panambi","RS",-28.068,-53.3935,"soybean",9.5,2.34,"Fgra",419
+11,2011,"Panambi","RS",-28.2645,-53.4812,"soybean",9.5,2.34,"Fgra",420
+11,2011,"Panambi","RS",-28.2645,-53.4812,"soybean",9.5,2.34,"Fgra",421
+12,2011,"Panambi","RS",-28.3464,-53.5306,"soybean",13.5,0.75,"Fgra",422
+12,2011,"Panambi","RS",-28.3889,-53.2587,"soybean",13.5,0.75,"Fgra",423
+12,2011,"Panambi","RS",-28.3889,-53.2587,"soybean",13.5,0.75,"Fgra",424
+15,2011,"Panambi","RS",-28.3969,-51.1586,"soybean",6,0.74,"Fcor",425
+15,2011,"Panambi","RS",-28.068,-53.3935,"soybean",6,0.74,"Fgra",426
+15,2011,"Panambi","RS",-28.2645,-53.4812,"soybean",6,0.74,"Fgra",427
+16,2011,"Panambi","RS",-28.3889,-53.2587,"corn",3.5,0.09,"Fgra",428
+17,2011,"Panambi","RS",-28.3412,-53.5017,"corn",14.5,0.7,"Fgra",429
+17,2011,"Panambi","RS",-28.3017,-52.0482,"corn",14.5,0.7,"Fgra",430
+17,2011,"Panambi","RS",-28.3017,-52.0482,"corn",14.5,0.7,"Fgra",431
+17,2011,"Panambi","RS",-28.3844,-53.3502,"corn",14.5,0.7,"Fgra",432
+1,2010,"Passo Fundo","RS",-28.2113,-52.3554,"soybean",63.68,7.62,"Fgra",433
+1,2010,"Passo Fundo","RS",-28.2462,-52.295,"soybean",63.68,7.62,"Fgra",434
+1,2010,"Passo Fundo","RS",-28.2462,-52.295,"soybean",63.68,7.62,"Fgra",435
+1,2010,"Passo Fundo","RS",-28.2462,-52.295,"soybean",63.68,7.62,"Fgra",436
+23,2010,"Passo Fundo","RS",-28.3007,-52.1459,"soybean",55.28,3.36,"Fgra",437
+23,2010,"Passo Fundo","RS",-28.3007,-52.1459,"soybean",55.28,3.36,"Fgra",438
+23,2010,"Passo Fundo","RS",-28.3007,-52.1459,"soybean",55.28,3.36,"Fgra",439
+24,2010,"Passo Fundo","RS",-28.3007,-52.1459,"soybean",52.78,3.31,"Fgra",440
+24,2010,"Passo Fundo","RS",-28.3007,-52.1459,"soybean",52.78,3.31,"Fgra",441
+24,2010,"Passo Fundo","RS",-28.3134,-52.4735,"soybean",52.78,3.31,"Fgra",442
+24,2010,"Passo Fundo","RS",-28.3134,-52.4735,"soybean",52.78,3.31,"Fgra",443
+24,2010,"Passo Fundo","RS",-28.3134,-52.4735,"soybean",52.78,3.31,"Fgra",444
+28,2010,"Passo Fundo","RS",-28.0889,-51.7437,"soybean",45.5,7.94,"Fgra",445
+28,2010,"Passo Fundo","RS",-28.0889,-51.7437,"soybean",45.5,7.94,"Fgra",446
+28,2010,"Passo Fundo","RS",-28.0889,-51.7437,"soybean",45.5,7.94,"Fgra",447
+40,2009,"Passo Fundo","RS",-28.266,-51.919,"potato",6.5,0.66,"Fgra",448
+40,2009,"Passo Fundo","RS",-27.926,-53.317,"potato",6.5,0.66,"Fgra",449
+41,2009,"Passo Fundo","RS",-27.926,-53.317,"corn",2.5,0.24,"Fgra",450
+41,2009,"Passo Fundo","RS",-27.926,-53.317,"corn",2.5,0.24,"Fgra",451
+NA,2009,"Pato Branco","PR",-26.2286,-52.6706,NA,NA,NA,"Fgra",452
+NA,2009,"Pato Branco","PR",-26.2286,-52.6706,NA,NA,NA,"Fgra",453
+NA,2009,"Pato Branco","PR",-26.2286,-52.6706,NA,NA,NA,"Fgra",454
+NA,2009,"Pato Branco","PR",-26.2286,-52.6706,NA,NA,NA,"Fgra",455
+NA,2009,"Pato Branco","PR",-26.2286,-52.6706,NA,NA,NA,"Fgra",456
+NA,2009,"Pato Branco","PR",-26.2286,-52.6706,NA,NA,NA,"Fgra",457
+NA,2009,"Peabiru","PR",-23.9128,-52.3431,NA,NA,NA,"Fgra",458
+NA,2009,"Peabiru","PR",-23.9128,-52.3431,NA,NA,NA,"Fgra",459
+NA,2009,"Peabiru","PR",-23.9128,-52.3431,NA,NA,NA,"Fgra",460
+NA,2009,"Peabiru","PR",-23.9128,-52.3431,NA,NA,NA,"Fgra",461
+NA,2009,"Peabiru","PR",-23.9128,-52.3431,NA,NA,NA,"Fmer",462
+11,2009,"Pejucara","RS",-27.926,-53.317,"soybean",24.5,1.57,"Fgra",463
+11,2009,"Pejucara","RS",-28.377,-52.519,"soybean",24.5,1.57,"Fgra",464
+11,2009,"Pejucara","RS",-28.377,-52.519,"soybean",24.5,1.57,"Fgra",465
+11,2009,"Pejucara","RS",-28.377,-52.519,"soybean",24.5,1.57,"Fgra",466
+NA,2009,"Ponta Grossa","PR",-25.095,-50.1619,NA,NA,NA,"Fgra",467
+NA,2009,"Ponta Grossa","PR",-25.095,-50.1619,NA,NA,NA,"Fgra",468
+NA,2009,"Ponta Grossa","PR",-25.095,-50.1619,NA,NA,NA,"Fgra",469
+NA,2009,"Ponta Grossa","PR",-25.095,-50.1619,NA,NA,NA,"Fgra",470
+NA,2009,"Ponta Grossa","PR",-25.095,-50.1619,NA,NA,NA,"Fgra",471
+NA,2009,"Ponta Grossa","PR",-25.095,-50.1619,NA,NA,NA,"Fgra",472
+NA,2009,"Rol<e4>ndia","PR",-23.3097,-51.3692,NA,NA,NA,"Fgra",473
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Faus",474
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Faus",475
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Faus",476
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Faus",477
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",478
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",479
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",480
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",481
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",482
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",483
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",484
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",485
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",486
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",487
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",488
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",489
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",490
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",491
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",492
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",493
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",494
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",495
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",496
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",497
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",498
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",499
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",500
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",501
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",502
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fgra",503
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",504
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",505
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",506
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",507
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",508
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",509
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",510
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",511
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",512
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",513
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",514
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",515
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",516
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",517
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",518
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",519
+NA,2011,"Roncador","PR",-24.6028,-52.275,NA,NA,NA,"Fmer",520
+25,2009,"Sagrada Familia","RS",-28.377,-52.519,"corn",16,0.82,"Fgra",521
+25,2009,"Sagrada Familia","RS",-28.381,-53.306,"corn",16,0.82,"Fgra",522
+25,2009,"Sagrada Familia","RS",-28.341,-53.501,"corn",16,0.82,"Fgra",523
+25,2009,"Sagrada Familia","RS",-28.39,-54.6,"corn",16,0.82,"Fgra",524
+35,2010,"Sananduva","RS",-28.0889,-51.7437,"soybean",39,2.82,"Fgra",525
+35,2010,"Sananduva","RS",-28.0889,-51.7437,"soybean",39,2.82,"Fgra",526
+35,2010,"Sananduva","RS",-27.9731,-51.7842,"soybean",39,2.82,"Fgra",527
+35,2010,"Sananduva","RS",-27.9731,-51.7842,"soybean",39,2.82,"Fgra",528
+35,2010,"Sananduva","RS",-27.9731,-51.7842,"soybean",39,2.82,"Fgra",529
+36,2010,"Sananduva","RS",-28.6008,-51.0371,"corn",22.5,0.32,"Fcor",530
+36,2010,"Sananduva","RS",-27.9731,-51.7842,"corn",22.5,0.32,"Fgra",531
+36,2010,"Sananduva","RS",-28.4132,-53.1016,"corn",22.5,0.32,"Fgra",532
+36,2010,"Sananduva","RS",-28.4132,-53.1016,"corn",22.5,0.32,"Fgra",533
+36,2010,"Sananduva","RS",-28.4132,-53.1016,"corn",22.5,0.32,"Fgra",534
+41,2011,"Sananduva","RS",-28.3844,-53.3502,"soybean",12.5,0.37,"Fgra",535
+41,2011,"Sananduva","RS",-28.3844,-53.3502,"soybean",12.5,0.37,"Fgra",536
+1,2009,"Santa Barbara do Sul","RS",-28.39,-54.6,"corn",52,2.98,"Fgra",537
+1,2009,"Santa Barbara do Sul","RS",-28.37,-51.092,"corn",52,2.98,"Fmer",538
+2,2009,"Santa Barbara do Sul","RS",-28.37,-51.092,"soybean",53.5,3.91,"Fmer",539
+3,2009,"Santa Barbara do Sul","RS",-28.39,-54.6,"soybean",30,1.19,"Fgra",540
+8,2010,"Santa Barbara do Sul","RS",-28.0431,-52.2701,"soybean",52.76,14.1,"Fgra",541
+8,2010,"Santa Barbara do Sul","RS",-28.0431,-52.2701,"soybean",52.76,14.1,"Fgra",542
+8,2010,"Santa Barbara do Sul","RS",-28.0431,-52.2701,"soybean",52.76,14.1,"Fgra",543
+9,2011,"Santa Barbara do Sul","RS",-28.3844,-53.3502,"soybean",1,0.15,"Fgra",544
+9,2011,"Santa Barbara do Sul","RS",-28.3844,-53.3502,"soybean",1,0.15,"Fgra",545
+9,2011,"Santa Barbara do Sul","RS",-28.3844,-53.3502,"soybean",1,0.15,"Fgra",546
+9,2011,"Santa Barbara do Sul","RS",-28.2869,-52.7071,"soybean",1,0.15,"Fgra",547
+9,2011,"Santa Barbara do Sul","RS",-28.2869,-52.7071,"soybean",1,0.15,"Fgra",548
+9,2011,"Santa Barbara do Sul","RS",-28.4051,-52.2696,"soybean",1,0.15,"Fgra",549
+51,2009,"Sao Miguel das Missoes","RS",-28.39,-54.6,"soybean",21.5,1.49,"Fgra",550
+51,2009,"Sao Miguel das Missoes","RS",-28.39,-54.6,"soybean",21.5,1.49,"Fgra",551
+51,2009,"Sao Miguel das Missoes","RS",-28.375,-54.1,"soybean",21.5,1.49,"Fgra",552
+51,2009,"Sao Miguel das Missoes","RS",-28.375,-54.1,"soybean",21.5,1.49,"Fgra",553
+51,2009,"Sao Miguel das Missoes","RS",-28.424,-53.926,"soybean",21.5,1.49,"Fgra",554
+51,2009,"Sao Miguel das Missoes","RS",-28.2896,-51.9731,"soybean",21.5,1.49,"Fmer",555
+NA,2009,"Sertaneja","PR",-23.0369,-50.8383,NA,NA,NA,"Fgra",556
+NA,2009,"Sertaneja","PR",-23.0369,-50.8383,NA,NA,NA,"Fgra",557
+NA,2009,"Sertaneja","PR",-23.0369,-50.8383,NA,NA,NA,"Fmer",558
+NA,2009,"Sertanopolis","PR",-23.0586,-51.0364,NA,NA,NA,"Fgra",559
+NA,2009,"Sertanopolis","PR",-23.0586,-51.0364,NA,NA,NA,"Fmer",560
+NA,2009,"Sertanopolis","PR",-23.0586,-51.0364,NA,NA,NA,"Fmer",561
+NA,2009,"Sertanopolis","PR",-23.0586,-51.0364,NA,NA,NA,"Fmer",562
+12,2010,"Sertao","RS",-28.0431,-52.2701,"corn",57.5,3.03,"Fgra",563
+12,2010,"Sertao","RS",-28.0272,-52.2322,"corn",57.5,3.03,"Fgra",564
+12,2010,"Sertao","RS",-28.0272,-52.2322,"corn",57.5,3.03,"Fgra",565
+12,2010,"Sertao","RS",-28.0272,-52.2322,"corn",57.5,3.03,"Fgra",566
+12,2010,"Sertao","RS",-28.6008,-51.0371,"corn",57.5,3.03,"Fmer",567
+13,2010,"Sertao","RS",-27.9755,-52.2263,"corn",56.5,4.11,"Fgra",568
+13,2010,"Sertao","RS",-27.9755,-52.2263,"corn",56.5,4.11,"Fgra",569
+13,2010,"Sertao","RS",-27.9755,-52.2263,"corn",56.5,4.11,"Fgra",570
+14,2010,"Sertao","RS",-27.9755,-52.2263,"soybean",28.5,1.43,"Fgra",571
+14,2010,"Sertao","RS",-27.9755,-52.2263,"soybean",28.5,1.43,"Fgra",572
+14,2010,"Sertao","RS",-28.8242,-52.4737,"soybean",28.5,1.43,"Fgra",573
+14,2010,"Sertao","RS",-28.8242,-52.4737,"soybean",28.5,1.43,"Fgra",574
+14,2010,"Sertao","RS",-28.8242,-52.4737,"soybean",28.5,1.43,"Fgra",575
+31,2011,"Sertao","RS",-28.0687,-51.9958,"soybean",29.5,0.97,"Fgra",576
+31,2011,"Sertao","RS",-28.1108,-51.7287,"soybean",29.5,0.97,"Fgra",577
+31,2011,"Sertao","RS",-28.2056,-53.4716,"soybean",29.5,0.97,"Fmer",578
+32,2011,"Sertao","RS",-28.1108,-51.7287,"corn",31,1.64,"Fgra",579
+29,2010,"Soledade","RS",-28.8242,-52.4737,"soybean",31,1.42,"Fgra",580
+29,2010,"Soledade","RS",-28.8242,-52.4737,"soybean",31,1.42,"Fgra",581
+29,2010,"Soledade","RS",-28.077,-52.058,"soybean",31,1.42,"Fgra",582
+29,2010,"Soledade","RS",-28.077,-52.058,"soybean",31,1.42,"Fgra",583
+29,2010,"Soledade","RS",-28.077,-52.058,"soybean",31,1.42,"Fgra",584
+9,2010,"Tapejara","RS",-28.077,-52.058,"soybean",37.5,8.16,"Fgra",585
+9,2010,"Tapejara","RS",-28.077,-52.058,"soybean",37.5,8.16,"Fgra",586
+9,2010,"Tapejara","RS",-28.1497,-52.1264,"soybean",37.5,8.16,"Fgra",587
+9,2010,"Tapejara","RS",-28.1497,-52.1264,"soybean",37.5,8.16,"Fgra",588
+9,2010,"Tapejara","RS",-28.1497,-52.1264,"soybean",37.5,8.16,"Fgra",589
+20,2010,"Tapejara","RS",-28.1497,-52.1264,"corn",44,4.89,"Fgra",590
+20,2010,"Tapejara","RS",-28.1356,-52.1088,"corn",44,4.89,"Fgra",591
+20,2010,"Tapejara","RS",-28.1356,-52.1088,"corn",44,4.89,"Fgra",592
+20,2010,"Tapejara","RS",-28.1356,-52.1088,"corn",44,4.89,"Fgra",593
+21,2010,"Tapejara","RS",-28.1356,-52.1088,"corn",46.5,2.37,"Fgra",594
+21,2010,"Tapejara","RS",-28.086,-52.0205,"corn",46.5,2.37,"Fgra",595
+21,2010,"Tapejara","RS",-28.086,-52.0205,"corn",46.5,2.37,"Fgra",596
+21,2010,"Tapejara","RS",-28.086,-52.0205,"corn",46.5,2.37,"Fgra",597
+22,2010,"Tapejara","RS",-28.086,-52.0205,"soybean",25,2.05,"Fgra",598
+22,2010,"Tapejara","RS",-28.3556,-51.1174,"soybean",25,2.05,"Fgra",599
+22,2010,"Tapejara","RS",-28.3556,-51.1174,"soybean",25,2.05,"Fgra",600
+22,2010,"Tapejara","RS",-28.3556,-51.1174,"soybean",25,2.05,"Fgra",601
+22,2010,"Tapejara","RS",-28.6008,-51.0371,"soybean",25,2.05,"Fmer",602
+46,2011,"Tapejara","RS",-28.6223,-52.7471,"soybean",8,1.43,"Fgra",603
+46,2011,"Tapejara","RS",-28.5364,-52.5752,"soybean",8,1.43,"Fgra",604
+46,2011,"Tapejara","RS",-28.5364,-52.5752,"soybean",8,1.43,"Fgra",605
+51,2011,"Tapejara","RS",-28.1108,-51.7287,"soybean",9.5,0.85,"Fgra",606
+25,2011,"Tapera","RS",-28.5364,-52.5752,"soybean",25.5,2.02,"Fgra",607
+25,2011,"Tapera","RS",-28.3735,-54.1231,"soybean",25.5,2.02,"Fmer",608
+23,2011,"Tio Hugo","RS",-28.5364,-52.5752,"soybean",8,0.25,"Fgra",609
+23,2011,"Tio Hugo","RS",-28.3847,-51.5464,"soybean",8,0.25,"Fgra",610
+23,2011,"Tio Hugo","RS",-28.5214,-51.0756,"soybean",8,0.25,"Fgra",611
+23,2011,"Tio Hugo","RS",-28.655,-50.7914,"soybean",8,0.25,"Fgra",612
+32,2009,"Tio Hugo","RS",-28.424,-53.926,"corn",54.58,7.93,"Fgra",613
+32,2009,"Tio Hugo","RS",-28.37,-51.092,"corn",54.58,7.93,"Fgra",614
+33,2009,"Tio Hugo","RS",-28.37,-51.092,"soybean",60.27,7.36,"Fgra",615
+33,2009,"Tio Hugo","RS",-28.37,-51.092,"soybean",60.27,7.36,"Fgra",616
+NA,2009,"Toledo","PR",-24.7136,-53.7431,NA,NA,NA,"Fmer",617
+NA,2009,"Toledo","PR",-24.7136,-53.7431,NA,NA,NA,"Fmer",618
+NA,2009,"Toledo","PR",-24.7136,-53.7431,NA,NA,NA,"Fmer",619
+NA,2009,"Toledo","PR",-24.7136,-53.7431,NA,NA,NA,"Fmer",620
+NA,2009,"Toledo","PR",-24.7136,-53.7431,NA,NA,NA,"Fmer",621
+NA,2009,"Tupassi","PR",-24.5878,-53.595,NA,NA,NA,"Fgra",622
+NA,2009,"Tupassi","PR",-24.5878,-53.595,NA,NA,NA,"Fmer",623
+NA,2009,"Tupassi","PR",-24.5878,-53.595,NA,NA,NA,"Fmer",624
+NA,2009,"Tupassi","PR",-24.5878,-53.595,NA,NA,NA,"Fmer",625
+42,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",13,0.73,"Fgra",626
+42,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",13,0.73,"Fgra",627
+42,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",13,0.73,"Fgra",628
+42,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",13,0.73,"Fgra",629
+42,2010,"Vacaria","RS",-28.3908,-51.0549,"corn",13,0.73,"Fgra",630
+42,2010,"Vacaria","RS",-28.3908,-51.0549,"corn",13,0.73,"Fgra",631
+42,2010,"Vacaria","RS",-28.3908,-51.0549,"corn",13,0.73,"Fgra",632
+43,2010,"Vacaria","RS",-28.3908,-51.0549,"corn",30.5,2.09,"Fgra",633
+43,2010,"Vacaria","RS",-28.3908,-51.0549,"corn",30.5,2.09,"Fgra",634
+43,2010,"Vacaria","RS",-28.3908,-51.0549,"corn",30.5,2.09,"Fgra",635
+43,2010,"Vacaria","RS",-28.4215,-51.0399,"corn",30.5,2.09,"Fgra",636
+43,2010,"Vacaria","RS",-28.4215,-51.0399,"corn",30.5,2.09,"Fgra",637
+43,2010,"Vacaria","RS",-28.4215,-51.0399,"corn",30.5,2.09,"Fgra",638
+44,2010,"Vacaria","RS",-28.4524,-50.9974,"corn",14,0.63,"Fgra",639
+44,2010,"Vacaria","RS",-28.6008,-51.0371,"corn",14,0.63,"Fgra",640
+44,2010,"Vacaria","RS",-28.6008,-51.0371,"corn",14,0.63,"Fgra",641
+45,2010,"Vacaria","RS",-28.6008,-51.0371,"corn",2,0.03,"Fgra",642
+46,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",4,0.09,"Fcor",643
+46,2010,"Vacaria","RS",-28.6354,-51.0865,"corn",4,0.09,"Fgra",644
+46,2010,"Vacaria","RS",-28.6354,-51.0865,"corn",4,0.09,"Fgra",645
+46,2010,"Vacaria","RS",-28.6354,-51.0865,"corn",4,0.09,"Fgra",646
+46,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",4,0.09,"Fmer",647
+46,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",4,0.09,"Fmer",648
+47,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",31,2.17,"Fgra",649
+47,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",31,2.17,"Fgra",650
+47,2010,"Vacaria","RS",-28.3556,-51.1174,"corn",31,2.17,"Fgra",651
+50,2009,"Vacaria","RS",-28.6714,-51.1351,"corn",14,0.93,"Fcor",652
+50,2009,"Vacaria","RS",-28.301,-51.4632,"corn",14,0.93,"Fcor",653
+50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fgra",654
+50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fgra",655
+50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fgra",656
+50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fgra",657
+50,2009,"Vacaria","RS",-28.37,-51.092,"corn",14,0.93,"Fgra",658
+50,2009,"Vacaria","RS",-28.285,-52.704,"corn",14,0.93,"Fgra",659
+50,2009,"Vacaria","RS",-28.319,-52.834,"corn",14,0.93,"Fgra",660
+50,2009,"Vacaria","RS",-28.319,-52.834,"corn",14,0.93,"Fgra",661
+54,2011,"Vacaria","RS",-28.301,-51.4632,"soybean",9,0.29,"Fgra",662
+56,2011,"Vacaria","RS",-28.2699,-51.9225,"corn",2.5,0.15,"Fcor",663
+57,2011,"Vacaria","RS",-28.3118,-52.8042,"corn",6.5,0.51,"Fgra",664
+59,2011,"Vacaria","RS",-28.2664,-51.6686,"corn",1,0.05,"Fgra",665
+24,2011,"Victor Graeff","RS",-28.3707,-52.9882,"soybean",18.5,0.58,"Fgra",666
+24,2011,"Victor Graeff","RS",-28.3707,-52.9882,"soybean",18.5,0.58,"Fgra",667
+30,2009,"Victor Graeff","RS",-28.319,-52.834,"corn",25,1.99,"Fgra",668
+31,2009,"Victor Graeff","RS",-28.3062,-52.0828,"corn",44,4.89,"Fgra",669
+31,2009,"Victor Graeff","RS",-28.3062,-52.0828,"corn",44,4.89,"Fgra",670
+31,2009,"Victor Graeff","RS",-28.3062,-52.0828,"corn",44,4.89,"Fgra",671

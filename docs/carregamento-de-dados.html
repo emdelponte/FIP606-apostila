@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>FIP 606</title>
   <meta name="description" content="Disciplina da Pós-graduacão em Fitopatologia da UFV">
-  <meta name="generator" content="bookdown 0.5 and GitBook 2.6.7">
+  <meta name="generator" content="bookdown 0.7 and GitBook 2.6.7">
 
   <meta property="og:title" content="FIP 606" />
   <meta property="og:type" content="book" />
@@ -200,19 +200,17 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <p><code>??readxl</code></p>
 <p>Vamos importar o arquivo fungicidewheat.xlsx e atribuir ao data frame wheat. Lembrando que deve-se incluir o caminho do arquivo, caso ele não se encontre no mesmo diretório onde está salvo o arquivo .r ou .rmd.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(readxl) <span class="co"># carrega o pacote no ambiente</span>
-wheat &lt;-<span class="st"> </span><span class="kw">read_excel</span>(<span class="st">&quot;data/fungicidewheat.xlsx&quot;</span>) <span class="co"># leitura com a função read_excel</span></code></pre></div>
-<pre><code>## Warning in strptime(x, format, tz = tz): unknown timezone &#39;zone/tz/2018c.
-## 1.0/zoneinfo/America/Sao_Paulo&#39;</code></pre>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">head</span> (wheat)[ ,<span class="dv">1</span><span class="op">:</span><span class="dv">4</span>] <span class="co"># mostra apenas as 4 primeiras colunas</span></code></pre></div>
+wheat &lt;-<span class="st"> </span><span class="kw">read_excel</span>(<span class="st">&quot;data/fungicidewheat.xlsx&quot;</span>) <span class="co"># leitura com a função read_excel</span>
+<span class="kw">head</span> (wheat)[ ,<span class="dv">1</span><span class="op">:</span><span class="dv">4</span>] <span class="co"># mostra apenas as 4 primeiras colunas</span></code></pre></div>
 <pre><code>## # A tibble: 6 x 4
-##          treat     time  dose   rep
-##          &lt;chr&gt;    &lt;chr&gt; &lt;dbl&gt; &lt;dbl&gt;
+##   treat        time      dose   rep
+##   &lt;chr&gt;        &lt;chr&gt;    &lt;dbl&gt; &lt;dbl&gt;
 ## 1 Ionic liquid Curative   0.5     1
 ## 2 Ionic liquid Curative   0.5     2
 ## 3 Ionic liquid Curative   0.5     3
 ## 4 Ionic liquid Curative   0.5     4
 ## 5 Ionic liquid Curative   0.5     5
-## 6 Ionic liquid Curative   2.0     1</code></pre>
+## 6 Ionic liquid Curative   2       1</code></pre>
 </div>
 <div id="dados-em-outros-arquivos" class="section level2">
 <h2><span class="header-section-number">2.3</span> Dados em outros arquivos</h2>
@@ -224,19 +222,19 @@ wheat2 &lt;-<span class="st"> </span><span class="kw">read_csv</span>(<span clas
 ##   treat = col_character(),
 ##   time = col_character(),
 ##   dose = col_double(),
-##   rep = col_integer(),
-##   total_spikes = col_integer(),
-##   dis_spikes = col_integer(),
-##   total_spikelets = col_integer(),
-##   dis_spikelets = col_integer(),
-##   total_seeds = col_integer(),
+##   rep = col_double(),
+##   total_spikes = col_double(),
+##   dis_spikes = col_double(),
+##   total_spikelets = col_double(),
+##   dis_spikelets = col_double(),
+##   total_seeds = col_double(),
 ##   inf_seeds = col_double()
 ## )</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># A função read_csv também permite a entrada direta dos dados, sem leitura em arquivo externo</span>
 <span class="kw">read_csv</span>(<span class="st">&quot;x,y</span><span class="ch">\n</span><span class="st">3,2</span><span class="ch">\n</span><span class="st">3,3&quot;</span>)</code></pre></div>
 <pre><code>## # A tibble: 2 x 2
 ##       x     y
-##   &lt;int&gt; &lt;int&gt;
+##   &lt;dbl&gt; &lt;dbl&gt;
 ## 1     3     2
 ## 2     3     3</code></pre>
 <p>No R base, a função que permite importar arquivos csv ou txt é chamada <code>read.table</code>. Note que tem que precisa informar se o conjunto tem um cabeçalho (h = T ou h = F) e o caractere que separa as colunas (vírgula o ponto e vírgula, dependendo da versão do excel). No caso abaixo é vírgula.</p>
@@ -315,10 +313,11 @@ gitbook.start({
 "facebook": true,
 "twitter": true,
 "google": false,
+"linkedin": false,
 "weibo": false,
 "instapper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",

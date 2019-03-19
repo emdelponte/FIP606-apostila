@@ -1,0 +1,149 @@
+
+# Sumarização dos dados
+
+A análise exploratória envolve, além da visualização dos dados, a descrição das variáveis de natureza categórica ou contínuas por meio de algumas métricas específicas, conforme o tipo de variável. 
+
+No caso de variáveis categóricas, é comum se calcular os totais ou frequencias absolutas ou relativas (percentual) do número de casos em cada nível ou classe das variáveis, quando for o caso. 
+
+No caso de variáveis contínuas, a sumarização é normalmente feita com base em métricas de estimativas de ponto ou posição (média, mediana, moda, etc) ou de variabilidade/dispersão dos dados (variância, desvio padrão, etc). Veremos a seguir como obter algumas estatísticas sumário, condicionada ou não por níveis de variáveis categóricas, após importar e "arrumar" os dados no R no formato "tidy".
+
+
+## Conjunto de dados
+
+Continuemos com o conjunto de dados do levantamento de giberela e coleta de isolados do complexo de espécies *F. graminearum* coletados nos estados do RS e PR, assim como o subconjunto `survey_rs`, com os dados apenas para o RS.
+
+
+```{r, message=FALSE, warning=FALSE}
+library(readr)
+survey2 <- read_csv ("data/survey2.csv")
+
+library(dplyr)
+survey_rs <- filter(survey2, state == "RS")
+```
+
+
+## Dados categóricos
+
+Para dados categóricos, as funções `table` e `prop.table` são muito úteis para sumarizar a frequencia (contagem) de registros. Vamos analisar o conjunto `survey2` e contar o número de isolados (cada linha do data frame é um isolado) para uma única variável ou duas variáveis cruzadas, a chamada "tabela de contingência".
+
+```{r}
+# a função attach "libera" as variáveis do data frame
+attach(survey2) 
+
+# Número de isolados por ano 
+table(year)
+
+# Número de isolados por ano e estado
+tab <- table (state, year)
+tab
+
+str(tab)
+
+# podemos transformar a tabela em um dataframe
+tab <- table(state, year)
+data.frame(tab)
+
+# Sumariza os casos em proporção
+round((prop.table(tab)*100),1) # casos em proporção
+prop.table(tab, 1) # proporção nas linhas
+prop.table(tab, 2) # proporção nas colunas
+
+# A função margin.table soma apenas na "margem" da tabela ou seja, para cada uma das variáveis.
+
+# Soma as frequencias dentro do ano
+margin.table(table(year,state), 1) 
+
+# soma as frequencias dentro do estado
+margin.table(table(year,state), 2) 
+table(state)
+
+```
+
+Podemos fazer uma tabela com três entradas incluindo o muncípio de origem do isolado.
+
+```{r}
+# continuamos usando a função table. Note que a terceira variável é a que fica em primeiro nível de agrupamento. Depois tem os locais e os anos na coluna
+tab2 <- table(location, year, state)
+tab2
+
+prop.table (table(species, residue))
+
+prop.table(table(species, year))
+
+table(species, genotype)
+
+```
+
+
+## Dados contínuos
+
+No caso de dados numéricos ou contínuos, o interesse maior é em sumarizar uma série de dados em um único valor, sendo mais comumente usada a média aritmética ou a mediana, dependendo da forma de distribuição dos dados. Essas estimativas podem sem obtidas para um conjunto condicionado ou não por níveis categóricos de uma determinada variável. Na visualização, esse foi o caso visto para o uso de boxplots, histogramas e dotplots.
+
+A estatística sumário pode ser calculada condicionada por uma variável categórica que é um tipo de agrupamento. No `R` podemos usar as funções `group_by` e `summarize` para gerar um novo conjunto de dados com os valores sumarizados por determinado grupo. Nesse caso, cada linha do conjunto é o sumário de várias linhas.
+
+Primeiramente, vamos eliminar todos as linhas duplicadas de severidade e incidência com o mesmo valor, deixando apenas um valor para cada campo de trigo. Vamos usar a função `unique` e `select`. 
+
+```{r}
+library(dplyr)
+field_rs <- unique(select(survey_rs, c(1:3,7:9)))
+
+# transforma o ano para factor
+field_rs$year <- as.factor(field_rs$year)
+```
+
+Podemos usar a função `summary` para sumarizar todas as variáveis do conjunto.
+
+```{r}
+summary(field_rs)
+```
+
+A função `summary` pode ser também aplicada somente para uma variável usando o $ após o nome do conjunto.
+
+```{r}
+summary(field_rs$sev)
+```
+
+A função `describe` do pacote `Hmisc` oferece uma opção de sumarização.    
+
+```{r, message=FALSE, warning=FALSE}
+library(Hmisc)
+describe(field_rs$sev)
+```
+ 
+Pode-se usar essas funções individualmente como nos exemplos abaixo. Note que, até agora, a estatística foi obtida para todos os valores da variável, sem qualquer agrupamento.
+
+```{r}
+
+mean(field_rs$sev)
+median(field_rs$sev)
+IQR(field_rs$sev)
+sd(field_rs$sev)
+```
+
+Agora iremos obter a estatística sumário por grupos ou níveis de uma variável categórica. Para isso, utilizaremos a função `group_by` e `summarize` do pacote dplyr. 
+
+```{r}
+# Agrupamento por ano
+library(dplyr)
+by_year <- group_by(field_rs, year)
+head(by_year)
+str(by_year)
+str(field_rs)
+
+```
+
+Na sequencia, usaremos a função `summarize` para criar um novo conjunto de dados com o nome "dis_by_year2" onde cada linha conterá o valor da estatística. No exemplo, será calculada a média de severidade e incidência em cada grupo criado no conjunto `by_year2`.
+
+```{r}
+dis_by_year2 <- summarise(group_by(survey_rs, year), 
+          inc_mean = mean(inc), 
+          inc_sd = sd(inc),
+          sev_mean = mean(sev),
+          sev_sd = sd(sev),
+          n_fields = length(sev)
+                 )
+dis_by_year2
+
+
+```
+

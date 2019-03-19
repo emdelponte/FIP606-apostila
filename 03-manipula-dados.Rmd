@@ -1,0 +1,270 @@
+
+# Manipulação de dados no R
+
+Com os dados carregados no ambiente, seja em vetores, tabelas e data frames (essa a forma mais comum de armazenar os dados), podemos fazer várias operações que envolvem filter, selecionar, rearranjar, renomear, transformar, filtrar, dentre outras ações. 
+
+## Conjunto de dados
+
+Nesta seção, iremos trabalhar com um conjunto de dados com informações sobre isolados de *Fusarium graminearum* obtidos de espigas de trigo com sintomas coletadas  em visitas à lavouras nos estados do RS e PR. Diversas informações foram obtidas para cada lavoura (local, ano, latitude, longitude, etc), sobre a doença (incidencia e severidade) e da identificação do isolado (espécie e genótipo). Os dados foram informados em uma planilha excel e o arquivo que será trabalho foi nomeado como "survey2.csv". Vamos carregar esse conjunto de dados no ambiente e atribuir a um data frame survey2.
+
+```{r, message=FALSE}
+library(readr)
+survey2 <- read_csv ("data/survey2.csv")
+
+library(dplyr)
+# A função glimpse é similar à função str do R base
+glimpse(survey2) # mostra todas as variáveis, uma em cada linha
+
+```
+
+
+## Selecionando colunas
+
+Eventualmente queremos trabalhar com apenas algumas variáveis, que são armazenadas em um novo data frame. No R base, a seleção pode ser feita por argumentos para seleção de colunas pelo nome das mesmas. Uma possibilidade é criar um vetor "filtro" com o nome das colunas que queremos selecionar e atribuir esse vetor à um novo data frame.
+
+```{r}
+# seleciona as três colunas conforme abaixo
+filtro <- c("field", "location", "species")
+
+# usando os colchetes, seleciona as variáveis do data frame survey2
+survey3 <- survey2[filtro]
+
+# visualiza o novo data frame
+glimpse(survey3)
+
+# outra forma seria diretamente pelo número da coluna
+survey3a <- survey2[c(2:3, 10)]
+glimpse(survey3a) 
+
+```
+
+No pacote dplyr, a função `select` permite selecionar as colunas pelo nome. Veja em `?select` as várias funções especiais de seleção.
+
+```{r}
+survey4 <- select(survey2, year, location, species)
+survey4 <- select(survey2, c(2:3, 10)) # pelo número das colunas
+
+glimpse(survey4) # vai aparecer em um formato mais compacto
+```
+
+A seleção também pode ser feita pela eliminação de algumas variáveis e preservação das demais. Vamos selecionar do data frame `survey4` todas as variáveis menos "species". Para isso, é colocado o sinal de menos na frente da coluna.
+
+```{r, message=FALSE, warning=FALSE}
+select(survey4, -species)
+
+# elimina várias colunas em um intervalo sequencial 
+select(survey2, -c(residue:genotype)) 
+```
+
+## Selecionando linhas
+
+No pacote dplyr a função `filter` permite selecionar linhas segundo critérios. No data frame `survey2` vamos fazer algumas operações para selecionar e contar o número de casos segundo algum critério de filtro.
+
+```{r}
+# filtra somente as linhas em que a incidência é maior que 80
+filter(survey2, inc > 70) 
+
+# retorna o número de casos que atendem ao critério
+count(filter(survey2, inc > 70)) 
+
+# pode-se criar um dataframe
+survey_inc75 <- filter(survey2, inc > 75) 
+
+# múltiplos argumentos de seleção
+filter(survey2, inc > 50 & sev > 10)
+
+# note abaixo que o sinal de igual é ==
+filter(survey2, location == "Carazinho" & year == "2010")
+
+```
+
+## Renomeando variáveis
+
+Conforme já visto, a função `fix` permite abrir o conjunto em um editor visual para fazer alterações, inclusive modificar o nome das colunas. Vamos traduzir o nome das variáveis no dataframe `survey3`.
+
+```{r}
+colnames(survey3)
+# fix(survey3)
+glimpse(survey3)
+
+# verifica se o nome foi alterado
+colnames(survey3)
+```
+
+No R base, a troca de nomes pode ser feita para todas as variáveis, desde que informadas na mesma sequencia em que se apresentam no data frame.
+
+```{r}
+colnames(survey2)
+names(survey2) <- c("campo","ano","local", "estado", "lat", "long", "residuo","inc", "sev", "especie", "genotipo") 
+colnames(survey2)
+```
+
+Pode-se também alterar apenas algumas variáveis, usando a função `names` do R base.
+
+```{r}
+names(survey2)[names(survey2)=="inc"] <- "incidencia"
+names(survey2)[names(survey2)=="sev"] <- "severidade"
+colnames(survey2) # verifica
+```
+
+Alternativamente, no pacote `plyr` a função `rename` é mais intuitiva e simples do que a função `names`. Veja o exemplo abaixo como mudar o nome da variável genotipo para quimiotipo.
+
+```{r, message=FALSE, warning=FALSE}
+library(plyr)
+survey2 <- rename(survey2, c("genotipo" = "quimiotipo"))
+```
+
+## Adicionando variáveis
+
+No R base, a forma mais rápida de se adicionar uma variável é diretamente no dataframe usando o `$` após o nome do data frame. Abaixo, iremos criar uma variável que codifica cada isolado com um número sequencial.
+
+```{r}
+# cria o vetor do tamanho do número de linhas (nrow) do dataframe survey2
+index <- seq(from = 1, to = nrow(survey2))
+head(index, 20) # primeiras 20 linhas
+tail(index)     # últimas 6 linhas
+
+# adiciona a variável ao data frame
+survey2$index <- index
+colnames(survey2)
+
+# também poderia ser feito diretamente sem criar o vetor antes
+survey2$index <- seq(from = 1, to = nrow(survey2))
+
+# pode também ser usado para criar variáveis com transformações
+# cria nova variável de incidência com nova escala
+survey2$incidencia2 <- survey2$incidencia/100
+
+```
+
+
+Alternativamente, podemos usar a função `mutate` do pacote dplyr para acrescentar uma ou mais colunas.
+
+```{r}
+survey2 <- mutate(survey2, incidencia3 = incidencia2 * 100)
+head(survey2$incidencia3)
+```
+
+## Removendo variáveis
+
+No R base, pode-se usar NULL ou `subset`. Veja os exemplos.
+
+```{r}
+# removendo incidencia3
+survey2$incidencia3 <- NULL
+glimpse(survey2)
+
+# removendo incidencia2 com a função subset
+survey2 <- subset(survey2, select = c(-incidencia2))
+glimpse(survey2)
+
+
+```
+
+## Reordenando as linhas
+
+No pacote dplyr, a função `arrange` pode ser usada para reordenação.
+
+```{r}
+# reordena pelo ano
+survey2 <- arrange(survey2, ano)
+head(survey2$ano, 20)
+tail(survey2$ano, 20)
+
+# reordena pelo valor de severidade
+survey2 <- arrange(survey2, severidade)
+head(survey2$severidade, 20)
+
+# veja o resultado
+arrange(survey2, -incidencia)
+```
+
+## Encontrar duplicatas
+
+Para encontrar registros únicos ou duplicados no data frame usa-se a função `unique` e `duplicate`.
+
+```{r}
+unique(survey3) # acha linhas únicas
+head(duplicated(survey3), 10) # verifica se é a linha tem dupla entrada
+# note que aqui é uma função de lógica
+
+count(duplicated(survey3)) # conta o número de linhas duplicadas
+```
+
+## Renomeando níveis
+
+Muitas vezes queremos substituir o nome dos níveis de um fator, sem a necessidade de retornar à planilha eletrônica. No exemplo, vamos alterar o nome das espécies que está com a codificação (Fgra, Fmer, etc) para o nome binomial latino. Para isso, vamos usar a função `revalue` do pacote plyr. 
+
+```{r}
+survey2$especie <- revalue(survey2$especie, c("Fgra" = "Fusarium graminearum"))
+```
+
+## Salvando arquivo 
+
+Depois de se ter manipulado o conjunto de dados, pode-se salvar o data frame e formato de planilha eletrônica, sendo os mais comuns em formato txt ou csv. No pacote utils do R que é carregado automatica, a função `write.csv` permite salvar no arquivo externo.
+
+```{r}
+# vamos criar o arquivo survey22.csv
+write.csv(survey2, file = "survey22.csv")
+```
+
+O arquivo csv pode ser aberto em qualquer programa de planilha eletrônica. No entanto, pode-se optar por salvar diretamente no formato xlsx do Excel. Para isso, carrega-se o pacote openxlsx. 
+
+```{r}
+
+#library(openxlsx)
+#write.xlsx(survey2, file = "survey222.xlsx")
+```
+
+## Transposição 
+
+Usualmente, várias funções do R seja para estatísticas ou visualização de dados exigem que os dados se apresentem da seguinte forma: cada observação é uma linha e cada coluna é uma variável. É o chamado conjunto na forma "tidy", ou arrumado, em português.
+
+As vezes recebemos dados em que as observações se encontram em várias colunas quando há a interação com outras variáveis. Por exemplo, uma variável é analisada em vários tempos, mas o tempo está como uma variável na coluna e não com uma entrada única para cada tempo. Nesse caso, pode ser necessário fazer a transposição ou "arrumação" do conjunto de colunas para linhas. Vamos usar alguns pacotes do R para fazer essa transposição como o tidy e o reshape2. 
+
+Vamos trabalhar com o conjunto "ralstonia" do pacote agricolae, o qual contém a contagem de colônias (log(1+UFC/g solo)) em placas de petri. 
+
+```{r}
+
+# Carrega o arquivo de dados ralstonia do pacote agricolae
+library (agricolae)
+data(ralstonia)
+
+# verifica as colunas do conjunto
+colnames(ralstonia)
+head(ralstonia)
+
+```
+
+No pacote `reshape2` vamos utilizar a função `melt` para fazer a transposição de colunas para linhas. 
+
+```{r}
+library(reshape2)
+# usa-se a função melt do pacote reshape2
+ralstonia2 <- melt(ralstonia, id=c("place"), 
+     variable.name="days", value.name="count")
+```
+
+No pacote tidyr podemos usar a função `gather` para o mesmo resultado, porém com muito menos esforço. 
+
+```{r}
+library(tidyr)
+ralstonia3 <- gather(ralstonia, "day", "count", 2:8)
+```
+
+
+Nós podemos fazer o inverso pois, em alguns casos podemos trabalhar com os dados me formatos de uma matriz ou no formato "largo". A função `spread` do pacote tidyr facilita essa operação.
+
+```{r}
+
+# usando a função spread do tidyr: mais simples!
+ralstonia_largo <-  spread(ralstonia3, day, count)
+head(ralstonia_largo)
+
+# ou usando a função dcast do reshape2 - mais trabalhoso!
+ralstonia_largo2 <- dcast(ralstonia3, place ~ day, value.var="count")
+
+
+```
+
+

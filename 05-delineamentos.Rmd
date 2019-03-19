@@ -1,0 +1,144 @@
+
+# Delineamentos experimentais
+
+Experimentos podem ser planejados em diferentes esquemas ou arranjos  e delineamentos (design). __Delineamento__ é a forma de distribuição ou aleatorização dos tratamentos na área experimental. Os principais delineamentos experimentais utilizados são: inteiramente casualizado, blocos casualizados e quadrado latino. Já o esquema (ou arranjo) é a forma que dois ou mais fatores, estudados ao mesmo temo, sendo os principais o fatorial, parcela subdividida e experimentos em faixa. Os arranjos e delineamentos mais comumente utilizados em experimentos de fitopatologia são:
+
+* Inteiramente casualizado (CRD)
+* Blocos casualizados (RCBD) 
+* Parcelas subdivididas (split-plot)
+
+Em quaisquer dos casos, a alocação dos tratamentos nas unidades experimentais deve ser feita de maneira aleatória, segundo o princípio da casualização. Em experimentos com controle local, os tratamentos são aleatorizados dentro de cada bloco. No R, o pacote `agricolae` tem algumas funções que permitem ao pesquisador gerar delineamentos específicos. Nas páginas de `help` do pacote agricolae, existem algumas funções `design` para vários tipos de delineamentos. Na sequência, serão demonstrados os delineamentos principais com base em exemplos da literatura fitopatológica.
+
+## Experimento simples
+
+### Inteiramente casualizado
+
+Indicado quando há baixa ou nenhuma variabilidade entre as parcelas experimentais, assim as condições experimentais são bem controladas. Indicado para experimentos de laboratórios, câmra climatizada, casa de vegetação, ou mesmo em campo onde há pouca heterogeneidade na área. A vantagem é que um delinamento mais simples de instalar e conduzir, além de ter o maior número de graus de liberdade.
+
+Nome da função : `?design.crd`
+
+**Exercício**
+
+Gerar um delineamento para um experimento em ambiente controlado com objetivo de para verificar o efeito de duas doses de Mg no desenvolvimento da escaldadura do arroz.
+
+> <em> Two experiments (Experiments 1 and 2), consisting of two treatments (hereafter referred to as 0.5 and 1.5 mM Mg) and arranged in a completely randomized design with eight replications, were performed to determine the foliar Mg concentration and the length of the leaf scald lesions. Fonte [Tatagiba and Rodrigues (2016)](http://link.springer.com/article/10.1007/s40858-016-0080-x/fulltext.html). </em>
+
+
+```{r}
+library (agricolae)# carrega o pacote no ambiente
+dose <- c("dose_0.5", "dose_1.5") # níveis do fator
+r <- 8            # número de repetições
+crd1 <- design.crd(dose, r, serie = 2,  2543)
+```
+
+Cria uma matriz para visualizar a alocação física dos tratamentos de acordo com o espaço disponível.
+
+```{r}
+str(crd1) # verifica a estrutura do objeto
+```
+
+Note acima que o objeto é uma lista. Agora vamos gerar uma matriz da ordem de alocações dos tratamentos com quatro colunas. Primeiro vamos extrair as informações sobre o código das parcelas, a repetição e o tratamento de nível de magnésio e atribuir em `m1`. Depois, com a função `interaction` criaremos uma nova codificação mais intuitiva da repetição do tratamento.
+
+```{r}
+m1 <- data.frame(crd1$book$plots, crd1$book$dose, crd1$book$r)
+colnames (m1) <- c("code", "Mg", "rep") # muda o nome das variáveis
+# cria um código para a combinação repetição e tratamento
+# especifica o separador que vai indicar o número da repetição
+m1$trat <- interaction (m1$Mg, m1$rep, sep = "_rep") 
+matrix (m1$trat, ncol = 4)  # função para gerar matriz
+```
+
+Acima, a matriz de disposição dos tratamentos com a indicação dos códigos dos tratamento e sua respectiva repetição.
+
+
+### Blocos casualizados 
+
+Indicado para situações em que as condições experimentais não são homogêneas. Assim, a área heterogênea é dividida em blocos com maior homogeneidade possível. A vantagem é justamente controlar as diferenças entre os blocos, levando assim a uma estimativa mais exata variância residual. As desvantagens incluem menor número de graus de liberdade. 
+
+No pacote `agricolae` o nome da função é `design.rcbd`. 
+
+**Exercício**
+
+Gera um delineamento para o experimento conforme descrição abaixo
+
+> <em> Randomized complete block design experiments with two cultivation systems (conventional and no-tillage) and four replications were carried out during the 1997/2003 growing seasons at Campo Mourão, PR, Brazil. The plot size was 11 m×3.5 m with seven rows of soybean cv. BR-16 (0.5 m inter-rows) with a final density of 16 plants per linear meter. [Almeida et al., (2015)](http://link.springer.com/article/10.1007/s40858-015-0052-6)</em>
+
+
+```{r}
+tillage <- c("conventional", "no-tillage")
+rcbd1 <- design.rcbd(tillage, 4, serie = 0, 1000, "Wichmann-Hill")
+```
+
+## Experimento fatorial
+
+### Inteiramente casualizado
+
+Nesse caso, a alocação das repetições dos tratamentos que resultam da interação entre dois fatores é feita de maneira aleatória, sem controle local. O nome da função no `agricolae` é `design.ab`. 
+
+**Exercício**
+
+Gera um delineamento segundo a descrição abaixo.
+
+> <em> Two 2 × 4 factorial experiments consisting of two cultivars (BR-18 and BRS-229) and the inducers (ASM, AJ and ET) plus distilled water (control treatment) were arranged in a completely randomized design, with four replications. Each experimental unit consisted of one plastic container with two plants. Fonte: [Rios et al. (2014)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1982-56762014000300006) </em>.
+
+**Passos da análise**
+
+- Gera a ordem de alocação dos tratamentos 
+- Cria um data.frame com cultivar, inducer e repetição extraído da lista
+- Cria um vetor com a interaçao para criar um código interpretável da parcela
+- Gera uma matrix com 3 colunas, uma para cada linha na bancada de uma casa de vegetação
+- Transforma de matrix para data.frame
+- Muda o nome das colunas para "linha 1", "linha 2", etc.
+
+
+```{r}
+# 2 cultivares e três indutores e quatro repetições
+trt <- c(2,3)
+fat1 <- design.ab(trt, r = 4, design = "crd", serie = 1)
+
+dat1 <- data.frame(fat1$book$plots, fat1$book$A, fat1$book$B, fat1$book$r)
+dat1$plot2 <- interaction(dat1[ ,2:4], sep = "_")
+
+m1 <- matrix(dat1$plot2, ncol=3)
+m2 <- as.data.frame(m1)
+colnames(m2) <- c("linha 1", "linha 2", "linha 3")
+m2
+```
+
+
+###  Parcela dividida
+
+Delineamentos em parcelas subdivididas tem um arranjo do tipo fatorial pois um segundo fator, normalmente em menor número de níveis, é aleatorizado na mesma parcela de um fator principal. Sua vantagem é a diminuição do número de parcelas. No `agricolae` o  nome da função é `design.split`. 
+
+**Exercício**
+
+Experimento de campo para testar o efeito da interação híbridos de milho de método de inoculação.
+
+> <em> Trials were arranged in a 14 × 2 factorial experiment in a split-plot design with four replications. Hybrids (0F53HX, 30F53YH, 30K64HNSR, 30S31H, 30S31YH, BG7049H, Dow2B707, P1630H, P30F53YH, P30S31HR, P32R48H, P3646H, STATUS VIP and, STATUS VIP3) were randomly assigned to the main plots, which consisted of four rows. Plots were split into two sub-plots that were randomly assigned to either the silk channel or the pin inoculation treatment. Fonte: [Nerbass et al. (2015)](http://link.springer.com/article/10.1007%2Fs40858-015-0050-8) </em>
+
+```{r}
+# parcela principal
+hybrids <- c("0F53HX", "30F53YH", "30K64HNSR","30S31H", "30S31YH", "BG7049H", "Dow2B707", "P1630H", "P30F53YH", "P30S31HR", "P32R48H", "P3646H", "STATUS VIP", "STATUS VIP3") 
+#subparcela
+inoculation <- c("silk", "pin") 
+sp1 <- design.split(hybrids, inoculation, 
+                    design="crd", r = 4, serie = 0)
+head(sp1$book, 10) # mostra 10 primeiras parcelas
+```
+
+Note abaixo que o delineamento escolhido foi inteiramente casualizado, onde a repetição de cada híbrido é sorteado em qualquer parcela da área experimental.
+
+### Blocos casualizados 
+
+No exemplo anterior, onde apenas o fator manejo do solo (conventional or non-tillage) havia sido testado, adiciona um novo fator, cultivar, com 5 níveis e refaz o delineamento agora em blocos casualizados completos.
+
+```{r}
+trt<-c(2,5) # fatorial 2 A = 2 níveis de manejo e B = 5 cultivares
+rcbd2 <- design.ab(trt, r = 4, design = "rcbd", serie = 2)
+head(rcbd2$book, 15)
+# A diferença foi o atributo design rcbd
+```
+
+
+
+
